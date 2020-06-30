@@ -1,10 +1,5 @@
-This is a template repo. To start.
-
-search `{moduleName}` through the project and replace it with the module identifier (ex: `socials` for `hugo-module-tnd-socials`)
-
-# {moduleName} Hugo Module
-
-(intro)
+# unit-tests
+A repository of testing content
 
 ## Requirements
 
