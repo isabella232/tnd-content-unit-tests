@@ -18,7 +18,7 @@ Requirements:
 If not already, [init](https://gohugo.io/hugo-modules/use-modules/#initialize-a-new-module) your project as Hugo Module:
 
 ```
-$: hugo mod init {repo_url}
+$: hugo mod init github.com/theNewDynamic/tnd-content-unit-tests
 ```
 
 Configure your project's module to import this module:
@@ -27,7 +27,7 @@ Configure your project's module to import this module:
 # config.yaml
 module:
   imports:
-  - path: github.com/theNewDynamic/hugo-module-tnd-{moduleName}
+  - path: github.com/theNewDynamic/hugo-module-tnd-content-unit-tests
 ```
 
 ## Usage
@@ -38,12 +38,12 @@ module:
 
 ### Settings
 
-Settings are added to the project's parameter under the `tnd_{moduleName}` map as shown below.
+Settings are added to the project's parameter under the `tnd_content-unit-tests` map as shown below.
 
 ```yaml
 # config.yaml
 params:
-  tnd_{moduleName}:
+  tnd_content-unit-tests:
     [...]
 ```
 
