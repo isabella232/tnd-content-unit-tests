@@ -26,37 +26,7 @@ module:
 ```
 
 ## Usage
-
-### Some Partial/Feature
-
-#### Examples
-
-### Settings
-
-Settings are added to the project's parameter under the `tnd_content-unit-tests` map as shown below.
-
-```yaml
-# config.yaml
-params:
-  tnd_content-unit-tests:
-    [...]
-```
-
-#### Configure Key 1
-
-#### Configure Key 2
-
-Given the example above, passing the following arguments to `tnd-imgix/GetSRC`
-```
-{{ $src := "/uploads/an-image.jpg" }}
-{{ $args := dict "src" $src "width" 1024 "pixel" 2 "ch" "Width,DPR" }}
-```
-
-Will produce: `https://imgix.domain.com/image.jpg?w=1024&dpr=2&ch=Width,DPR`
-
-#### Defaults
-
-ld copy/paste the above to your settings and append with new extensions.
+The test content will be imported into the `content/tnd-content-unit-tests` folder. The test images will be imported into the `static/tnd-content-unit-tests/images` folder.
 
 ## theNewDynamic
 
