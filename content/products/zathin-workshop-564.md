@@ -3,7 +3,7 @@ color: '#855da5'
 date: 2019-03-15T14:22:16Z
 description: Cras non velit nec nisi vulputate nonummy.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo"]
 title: Zathin workshop

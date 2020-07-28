@@ -3,7 +3,7 @@ color: '#096292'
 date: 2019-05-07T11:33:40Z
 description: Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular"]
 title: Flexidy workshop

@@ -3,7 +3,7 @@ color: '#2aee9a'
 date: 2018-11-28T16:47:26Z
 description: Nulla ut erat id mauris vulputate elementum. Nullam varius.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","Angular","JS"]
 title: Cardguard workshop

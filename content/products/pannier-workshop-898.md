@@ -3,7 +3,7 @@ color: '#f282fb'
 date: 2019-09-29T15:21:59Z
 description: Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","Eleventy"]
 title: Pannier workshop

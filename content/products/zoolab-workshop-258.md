@@ -3,7 +3,7 @@ color: '#5b0bde'
 date: 2019-03-26T13:03:34Z
 description: Vestibulum sed magna at nunc commodo placerat.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS","Vue"]
 title: Zoolab workshop

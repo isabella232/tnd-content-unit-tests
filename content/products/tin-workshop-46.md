@@ -3,7 +3,7 @@ color: '#79fd45'
 date: 2019-09-24T21:36:26Z
 description: Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo"]
 title: Tin workshop

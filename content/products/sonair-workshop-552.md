@@ -3,7 +3,7 @@ color: '#289209'
 date: 2018-12-07T06:23:29Z
 description: Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Eleventy"]
 title: Sonair workshop

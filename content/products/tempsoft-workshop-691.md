@@ -3,7 +3,7 @@ color: '#e51302'
 date: 2019-04-09T14:34:35Z
 description: In hac habitasse platea dictumst.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","React","HTML"]
 title: Tempsoft workshop

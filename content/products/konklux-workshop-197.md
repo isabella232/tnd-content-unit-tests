@@ -3,7 +3,7 @@ color: '#65fb6f'
 date: 2018-11-21T11:08:04Z
 description: Vestibulum rutrum rutrum neque.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular"]
 title: Konklux workshop

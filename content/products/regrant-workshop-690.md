@@ -3,7 +3,7 @@ color: '#c4d37c'
 date: 2018-12-13T18:00:23Z
 description: In congue. Etiam justo.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","JS","HTML"]
 title: Regrant workshop

@@ -3,7 +3,7 @@ color: '#d96f71'
 date: 2019-09-09T10:50:09Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML"]
 title: Andalax workshop

@@ -3,7 +3,7 @@ color: '#3be255'
 date: 2019-06-30T07:07:16Z
 description: Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo"]
 title: Tin workshop

@@ -3,7 +3,7 @@ color: '#07122e'
 date: 2019-08-27T06:48:41Z
 description: Donec ut mauris eget massa tempor convallis.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS"]
 title: Kanlam workshop

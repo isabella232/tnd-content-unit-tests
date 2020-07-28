@@ -3,7 +3,7 @@ color: '#061a0b'
 date: 2019-01-28T18:24:31Z
 description: Aliquam quis turpis eget elit sodales scelerisque.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Eleventy","Angular","HTML"]
 title: Toughjoyfax workshop

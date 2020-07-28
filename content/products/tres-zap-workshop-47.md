@@ -3,7 +3,7 @@ color: '#98ffa3'
 date: 2018-12-14T05:00:40Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","Angular"]
 title: Tres-Zap workshop

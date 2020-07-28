@@ -3,7 +3,7 @@ color: '#afedbf'
 date: 2019-01-13T09:24:58Z
 description: Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS","Vue","JAMStack"]
 title: Tin workshop

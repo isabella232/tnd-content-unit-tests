@@ -3,7 +3,7 @@ color: '#7c6a59'
 date: 2019-07-07T19:35:58Z
 description: Cras non velit nec nisi vulputate nonummy.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS"]
 title: Bamity workshop

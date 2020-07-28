@@ -3,7 +3,7 @@ color: '#970ca0'
 date: 2019-01-26T03:47:50Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","CSS"]
 title: Vagram workshop

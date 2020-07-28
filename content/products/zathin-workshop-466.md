@@ -3,7 +3,7 @@ color: '#86ce8c'
 date: 2019-02-28T21:22:54Z
 description: Duis consequat dui nec nisi volutpat eleifend.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","Eleventy","HTML"]
 title: Zathin workshop

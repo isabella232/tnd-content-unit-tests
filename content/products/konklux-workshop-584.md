@@ -3,7 +3,7 @@ color: '#c9788e'
 date: 2019-03-08T02:24:05Z
 description: Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","CSS"]
 title: Konklux workshop

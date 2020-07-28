@@ -3,7 +3,7 @@ color: '#468b94'
 date: 2018-11-28T14:31:41Z
 description: Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","React"]
 title: Ronstring workshop

@@ -3,7 +3,7 @@ color: '#a380c6'
 date: 2019-02-25T18:33:26Z
 description: Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React","CSS","HTML"]
 title: Rank workshop

@@ -3,7 +3,7 @@ color: '#ca9919'
 date: 2019-09-14T15:46:15Z
 description: Suspendisse potenti.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","Angular"]
 title: Prodder workshop

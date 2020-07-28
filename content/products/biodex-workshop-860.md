@@ -3,7 +3,7 @@ color: '#841b2f'
 date: 2019-03-22T15:35:17Z
 description: Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy"]
 title: Biodex workshop

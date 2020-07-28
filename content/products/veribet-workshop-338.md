@@ -3,7 +3,7 @@ color: '#cabe8b'
 date: 2018-11-04T02:42:24Z
 description: Nullam molestie nibh in lectus. Pellentesque at nulla.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack","CSS"]
 title: Veribet workshop

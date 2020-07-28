@@ -3,7 +3,7 @@ color: '#c51629'
 date: 2019-09-01T02:42:19Z
 description: Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML","React","JS"]
 title: Lotlux workshop

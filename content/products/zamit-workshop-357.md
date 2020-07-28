@@ -3,7 +3,7 @@ color: '#44b3f7'
 date: 2019-04-19T01:18:53Z
 description: Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","JAMStack"]
 title: Zamit workshop

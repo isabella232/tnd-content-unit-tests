@@ -3,7 +3,7 @@ color: '#8f9edb'
 date: 2019-08-15T19:42:26Z
 description: Morbi porttitor lorem id ligula.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","React"]
 title: Konklux workshop

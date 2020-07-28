@@ -3,7 +3,7 @@ color: '#4d09ca'
 date: 2019-04-01T18:53:12Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Eleventy"]
 title: Wrapsafe workshop

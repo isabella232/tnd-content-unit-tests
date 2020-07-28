@@ -3,7 +3,7 @@ color: '#ad568a'
 date: 2019-07-09T21:11:28Z
 description: In eleifend quam a odio. In hac habitasse platea dictumst.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","React","Vue"]
 title: Andalax workshop

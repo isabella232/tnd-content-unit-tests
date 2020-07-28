@@ -3,7 +3,7 @@ color: '#0a5bbe'
 date: 2019-02-24T05:33:24Z
 description: Nulla ut erat id mauris vulputate elementum.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","Hugo","Angular"]
 title: Tempsoft workshop

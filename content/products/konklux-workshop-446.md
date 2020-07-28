@@ -3,7 +3,7 @@ color: '#501814'
 date: 2018-10-18T16:34:16Z
 description: Praesent lectus.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","Eleventy","CSS"]
 title: Konklux workshop

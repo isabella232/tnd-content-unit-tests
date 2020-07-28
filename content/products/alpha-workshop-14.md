@@ -3,7 +3,7 @@ color: '#6ff3ee'
 date: 2019-04-10T19:29:57Z
 description: Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Hugo","Eleventy"]
 title: Alpha workshop

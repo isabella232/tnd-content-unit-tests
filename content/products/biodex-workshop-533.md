@@ -3,7 +3,7 @@ color: '#9f8d85'
 date: 2019-04-22T15:41:53Z
 description: Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular"]
 title: Biodex workshop

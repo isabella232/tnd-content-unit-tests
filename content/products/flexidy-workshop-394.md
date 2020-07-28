@@ -3,7 +3,7 @@ color: '#dbde3f'
 date: 2019-03-31T08:46:04Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","JAMStack"]
 title: Flexidy workshop

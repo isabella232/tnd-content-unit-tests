@@ -3,7 +3,7 @@ color: '#6a2b32'
 date: 2019-10-09T06:50:56Z
 description: Suspendisse accumsan tortor quis turpis. Sed ante.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML","Angular"]
 title: Ventosanzap workshop

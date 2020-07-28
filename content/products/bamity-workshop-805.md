@@ -3,7 +3,7 @@ color: '#dd7aa5'
 date: 2019-07-12T02:47:54Z
 description: Phasellus id sapien in sapien iaculis congue.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue"]
 title: Bamity workshop

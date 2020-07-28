@@ -3,7 +3,7 @@ color: '#9962f6'
 date: 2019-10-05T15:30:32Z
 description: Morbi non quam nec dui luctus rutrum.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Home Ing workshop

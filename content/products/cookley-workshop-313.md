@@ -3,7 +3,7 @@ color: '#f15c52'
 date: 2018-11-18T06:54:33Z
 description: Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","Angular"]
 title: Cookley workshop

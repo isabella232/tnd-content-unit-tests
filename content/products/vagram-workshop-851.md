@@ -3,7 +3,7 @@ color: '#7fd130'
 date: 2019-03-29T10:38:30Z
 description: Suspendisse accumsan tortor quis turpis. Sed ante.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","Vue","CSS"]
 title: Vagram workshop

@@ -3,7 +3,7 @@ color: '#3b1ce7'
 date: 2018-12-22T16:21:46Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React"]
 title: Konklux workshop

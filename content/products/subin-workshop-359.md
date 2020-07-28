@@ -3,7 +3,7 @@ color: '#cc06ef'
 date: 2019-04-27T14:00:59Z
 description: Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS","JS"]
 title: Subin workshop

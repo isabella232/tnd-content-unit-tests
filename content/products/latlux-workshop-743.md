@@ -3,7 +3,7 @@ color: '#fd2646'
 date: 2018-12-05T22:58:51Z
 description: Nulla tellus. In sagittis dui vel nisl.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","JS","JAMStack"]
 title: Latlux workshop

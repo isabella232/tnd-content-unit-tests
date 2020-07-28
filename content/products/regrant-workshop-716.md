@@ -3,7 +3,7 @@ color: '#753edb'
 date: 2019-06-06T18:57:39Z
 description: Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue","CSS"]
 title: Regrant workshop

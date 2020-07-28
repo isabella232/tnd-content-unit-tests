@@ -3,7 +3,7 @@ color: '#a0fc67'
 date: 2018-12-14T15:45:24Z
 description: Vivamus in felis eu sapien cursus vestibulum.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["React","Angular","Vue"]
 title: Span workshop

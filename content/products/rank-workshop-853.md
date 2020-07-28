@@ -3,7 +3,7 @@ color: '#16635c'
 date: 2019-04-10T22:49:55Z
 description: Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS","Angular","JAMStack"]
 title: Rank workshop

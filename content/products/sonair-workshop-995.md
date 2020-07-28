@@ -3,7 +3,7 @@ color: '#a26bc1'
 date: 2019-04-11T19:25:56Z
 description: Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","Vue","Angular"]
 title: Sonair workshop

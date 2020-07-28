@@ -3,7 +3,7 @@ color: '#1f2104'
 date: 2018-11-09T03:48:15Z
 description: Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue","Eleventy"]
 title: Rank workshop

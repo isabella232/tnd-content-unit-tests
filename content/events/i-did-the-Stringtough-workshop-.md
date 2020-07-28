@@ -1,6 +1,6 @@
 ---
 date: 2019-07-26T18:29:08Z
-image: /images/ws_image_9.jpg
+image: /images/tnd-content-unit-tests/ws_image_9.jpg
 instructor: "Rudie Jeafferson"
 technologies: ["JAMStack","Angular"]
 title: I did the Stringtough workshop!

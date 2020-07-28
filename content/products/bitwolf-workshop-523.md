@@ -3,7 +3,7 @@ color: '#93aad2'
 date: 2019-07-16T16:06:51Z
 description: Duis at velit eu est congue elementum. In hac habitasse platea dictumst.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML"]
 title: Bitwolf workshop

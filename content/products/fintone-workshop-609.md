@@ -3,7 +3,7 @@ color: '#b6e77f'
 date: 2019-08-31T02:39:49Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy","Hugo"]
 title: Fintone workshop

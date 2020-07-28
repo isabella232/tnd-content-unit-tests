@@ -3,7 +3,7 @@ color: '#55c1a7'
 date: 2018-11-15T01:37:44Z
 description: Phasellus in felis. Donec semper sapien a libero.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo"]
 title: Opela workshop

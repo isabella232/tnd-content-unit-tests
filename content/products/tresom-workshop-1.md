@@ -3,7 +3,7 @@ color: '#af8fe3'
 date: 2018-11-22T16:02:29Z
 description: Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS"]
 title: Tresom workshop

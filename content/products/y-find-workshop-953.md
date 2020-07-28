@@ -3,7 +3,7 @@ color: '#1a8179'
 date: 2019-06-03T17:41:40Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","Eleventy"]
 title: Y-find workshop

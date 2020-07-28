@@ -3,7 +3,7 @@ color: '#77a8ab'
 date: 2019-08-06T18:00:46Z
 description: Maecenas tincidunt lacus at velit.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML","Vue"]
 title: Redhold workshop

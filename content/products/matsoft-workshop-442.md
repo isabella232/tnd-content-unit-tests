@@ -3,7 +3,7 @@ color: '#0a2c81'
 date: 2018-11-18T16:49:03Z
 description: Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","JAMStack","JS"]
 title: Matsoft workshop

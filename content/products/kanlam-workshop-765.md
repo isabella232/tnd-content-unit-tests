@@ -3,7 +3,7 @@ color: '#71e03a'
 date: 2018-11-03T18:20:58Z
 description: Suspendisse potenti. In eleifend quam a odio.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy","JAMStack","Angular"]
 title: Kanlam workshop

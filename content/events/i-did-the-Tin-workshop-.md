@@ -1,6 +1,6 @@
 ---
 date: 2018-12-19T04:21:45Z
-image: /images/ws_image_10.jpg
+image: /images/tnd-content-unit-tests/ws_image_10.jpg
 instructor: "Deanna Greim"
 technologies: ["JAMStack","React"]
 title: I did the Tin workshop!

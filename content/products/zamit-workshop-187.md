@@ -3,7 +3,7 @@ color: '#5977b8'
 date: 2019-03-29T03:56:19Z
 description: In blandit ultrices enim.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Eleventy"]
 title: Zamit workshop

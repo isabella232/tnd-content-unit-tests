@@ -3,7 +3,7 @@ color: '#16b945'
 date: 2019-04-23T04:02:16Z
 description: Pellentesque ultrices mattis odio. Donec vitae nisi.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React","JS","JAMStack"]
 title: Zaam-Dox workshop

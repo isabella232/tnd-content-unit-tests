@@ -3,7 +3,7 @@ color: '#b59a70'
 date: 2019-08-28T22:02:44Z
 description: Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Vue","HTML"]
 title: Subin workshop

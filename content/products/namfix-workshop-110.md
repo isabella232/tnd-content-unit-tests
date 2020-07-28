@@ -3,7 +3,7 @@ color: '#39576f'
 date: 2019-08-18T00:22:41Z
 description: Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML"]
 title: Namfix workshop

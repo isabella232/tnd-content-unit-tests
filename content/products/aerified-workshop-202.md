@@ -3,7 +3,7 @@ color: '#b87917'
 date: 2019-01-08T13:17:32Z
 description: Ut tellus. Nulla ut erat id mauris vulputate elementum.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS"]
 title: Aerified workshop

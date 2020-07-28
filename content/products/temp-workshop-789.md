@@ -3,7 +3,7 @@ color: '#b1f6de'
 date: 2019-08-05T08:41:30Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["React","Vue"]
 title: Temp workshop

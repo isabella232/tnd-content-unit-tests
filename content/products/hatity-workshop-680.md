@@ -3,7 +3,7 @@ color: '#a9ec05'
 date: 2018-12-28T08:26:19Z
 description: Vestibulum sed magna at nunc commodo placerat.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Eleventy","JAMStack","Hugo"]
 title: Hatity workshop

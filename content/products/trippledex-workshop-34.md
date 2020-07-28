@@ -3,7 +3,7 @@ color: '#a205e6'
 date: 2019-02-28T20:34:20Z
 description: Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue","JAMStack"]
 title: Trippledex workshop

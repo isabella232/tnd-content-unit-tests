@@ -3,7 +3,7 @@ color: '#bfc1cd'
 date: 2019-03-26T06:39:20Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack"]
 title: Hatity workshop

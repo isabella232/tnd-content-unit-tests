@@ -3,7 +3,7 @@ color: '#cada67'
 date: 2018-10-12T08:48:49Z
 description: Donec posuere metus vitae ipsum.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","Vue"]
 title: Tresom workshop

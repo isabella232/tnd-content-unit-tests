@@ -3,7 +3,7 @@ color: '#2fbd47'
 date: 2019-07-09T17:22:06Z
 description: Nulla tempus.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS","CSS"]
 title: Stringtough workshop

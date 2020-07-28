@@ -3,7 +3,7 @@ color: '#caef42'
 date: 2018-12-01T22:46:19Z
 description: Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","JS","JAMStack"]
 title: Alpha workshop

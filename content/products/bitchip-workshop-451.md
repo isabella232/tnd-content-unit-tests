@@ -3,7 +3,7 @@ color: '#93c3eb'
 date: 2019-02-01T07:41:35Z
 description: Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS","Vue"]
 title: Bitchip workshop

@@ -3,7 +3,7 @@ color: '#240922'
 date: 2019-01-21T15:45:33Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","Vue"]
 title: Zamit workshop

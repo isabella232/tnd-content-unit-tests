@@ -3,7 +3,7 @@ color: '#4da99d'
 date: 2019-09-06T15:44:13Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["CSS","JAMStack","React"]
 title: Keylex workshop

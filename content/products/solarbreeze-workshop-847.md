@@ -3,7 +3,7 @@ color: '#42d920'
 date: 2019-07-23T11:11:09Z
 description: Morbi non quam nec dui luctus rutrum.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML","Angular","JS"]
 title: Solarbreeze workshop

@@ -3,7 +3,7 @@ color: '#3aa0b5'
 date: 2019-08-11T14:26:42Z
 description: Mauris ullamcorper purus sit amet nulla.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack"]
 title: Opela workshop

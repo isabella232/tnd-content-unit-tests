@@ -3,7 +3,7 @@ color: '#c9e41a'
 date: 2019-01-25T17:08:58Z
 description: Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue"]
 title: Konklab workshop

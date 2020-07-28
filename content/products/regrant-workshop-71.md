@@ -3,7 +3,7 @@ color: '#a3dd8e'
 date: 2019-02-12T19:37:39Z
 description: Ut tellus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue","Hugo"]
 title: Regrant workshop

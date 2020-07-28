@@ -3,7 +3,7 @@ color: '#c3354c'
 date: 2019-05-05T01:49:57Z
 description: Curabitur in libero ut massa volutpat convallis.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo"]
 title: Otcom workshop

@@ -3,7 +3,7 @@ color: '#3d281b'
 date: 2019-03-14T05:42:11Z
 description: Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","Angular"]
 title: Zaam-Dox workshop

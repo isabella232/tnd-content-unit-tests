@@ -3,7 +3,7 @@ color: '#0d6553'
 date: 2019-01-04T01:01:42Z
 description: Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular","JAMStack"]
 title: Stringtough workshop

@@ -3,7 +3,7 @@ color: '#9a4d91'
 date: 2019-10-06T07:51:12Z
 description: Nulla suscipit ligula in lacus.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS"]
 title: Y-find workshop

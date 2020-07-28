@@ -3,7 +3,7 @@ color: '#6c8ac8'
 date: 2019-04-11T18:26:56Z
 description: Nulla suscipit ligula in lacus.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","Vue"]
 title: Y-Solowarm workshop

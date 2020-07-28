@@ -3,7 +3,7 @@ color: '#d8cecc'
 date: 2018-11-03T09:43:33Z
 description: Aliquam non mauris. Morbi non lectus.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","CSS","JAMStack"]
 title: Cardguard workshop

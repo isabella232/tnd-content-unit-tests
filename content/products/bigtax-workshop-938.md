@@ -3,7 +3,7 @@ color: '#de45f2'
 date: 2019-03-18T02:20:58Z
 description: In hac habitasse platea dictumst.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS","Vue","Eleventy"]
 title: Bigtax workshop

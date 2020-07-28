@@ -3,7 +3,7 @@ color: '#e69714'
 date: 2019-09-19T11:40:25Z
 description: Duis consequat dui nec nisi volutpat eleifend.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","JS"]
 title: Fintone workshop

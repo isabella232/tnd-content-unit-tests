@@ -3,7 +3,7 @@ color: '#aad604'
 date: 2019-07-21T10:03:55Z
 description: Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML"]
 title: Redhold workshop

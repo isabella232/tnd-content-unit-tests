@@ -3,7 +3,7 @@ color: '#7fd601'
 date: 2019-06-10T09:51:51Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS","CSS","HTML"]
 title: Y-find workshop

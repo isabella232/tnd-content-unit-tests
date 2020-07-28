@@ -3,7 +3,7 @@ color: '#742722'
 date: 2019-02-25T07:14:10Z
 description: In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","CSS"]
 title: Cardify workshop

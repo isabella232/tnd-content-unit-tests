@@ -3,7 +3,7 @@ color: '#08b77d'
 date: 2019-04-13T01:36:36Z
 description: In blandit ultrices enim.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","JS"]
 title: Tin workshop

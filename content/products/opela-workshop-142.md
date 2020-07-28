@@ -3,7 +3,7 @@ color: '#34f675'
 date: 2019-05-18T17:35:30Z
 description: Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","Hugo"]
 title: Opela workshop

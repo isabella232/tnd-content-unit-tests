@@ -3,7 +3,7 @@ color: '#78161b'
 date: 2019-07-25T09:35:20Z
 description: Suspendisse accumsan tortor quis turpis. Sed ante.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo","Vue"]
 title: Fix San workshop

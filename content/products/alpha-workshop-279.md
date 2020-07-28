@@ -3,7 +3,7 @@ color: '#0d569c'
 date: 2019-01-16T11:23:01Z
 description: Aenean fermentum. Donec ut mauris eget massa tempor convallis.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","JAMStack","Vue"]
 title: Alpha workshop

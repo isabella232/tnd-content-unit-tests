@@ -3,7 +3,7 @@ color: '#9f9c9e'
 date: 2019-05-24T08:41:15Z
 description: Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML","CSS"]
 title: Tempsoft workshop

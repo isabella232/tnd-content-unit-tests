@@ -3,7 +3,7 @@ color: '#5e808a'
 date: 2019-07-22T09:43:53Z
 description: Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular"]
 title: Domainer workshop

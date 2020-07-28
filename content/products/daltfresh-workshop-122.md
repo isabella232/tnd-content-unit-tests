@@ -3,7 +3,7 @@ color: '#87bab8'
 date: 2019-02-27T07:13:11Z
 description: Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS","JAMStack"]
 title: Daltfresh workshop

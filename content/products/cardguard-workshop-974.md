@@ -3,7 +3,7 @@ color: '#a22ea0'
 date: 2019-09-26T16:13:14Z
 description: Nulla justo.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS","HTML","JAMStack"]
 title: Cardguard workshop

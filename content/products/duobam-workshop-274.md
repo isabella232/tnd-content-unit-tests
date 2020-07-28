@@ -3,7 +3,7 @@ color: '#6ccf58'
 date: 2019-04-05T07:47:20Z
 description: Etiam pretium iaculis justo.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Angular","JS","Hugo"]
 title: Duobam workshop

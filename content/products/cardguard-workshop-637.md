@@ -3,7 +3,7 @@ color: '#0eb02a'
 date: 2019-01-12T11:52:14Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML","JS","Angular"]
 title: Cardguard workshop

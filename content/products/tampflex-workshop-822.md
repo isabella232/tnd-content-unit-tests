@@ -3,7 +3,7 @@ color: '#b02a2c'
 date: 2019-02-12T03:31:36Z
 description: Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS","JAMStack","React"]
 title: Tampflex workshop

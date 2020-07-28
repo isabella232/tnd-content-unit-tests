@@ -3,7 +3,7 @@ color: '#7a04ef'
 date: 2019-09-05T18:45:57Z
 description: Nulla justo.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","JS","Angular"]
 title: Tres-Zap workshop

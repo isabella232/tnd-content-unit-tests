@@ -3,7 +3,7 @@ color: '#3226f1'
 date: 2018-12-10T17:17:08Z
 description: Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS","CSS","Vue"]
 title: Aerified workshop

@@ -3,7 +3,7 @@ color: '#a40524'
 date: 2019-02-18T01:27:45Z
 description: Maecenas tincidunt lacus at velit.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS"]
 title: Otcom workshop

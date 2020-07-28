@@ -3,7 +3,7 @@ color: '#7f5aeb'
 date: 2018-11-24T18:44:00Z
 description: Aenean sit amet justo.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","CSS"]
 title: Sub-Ex workshop

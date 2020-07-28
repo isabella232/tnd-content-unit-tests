@@ -3,7 +3,7 @@ color: '#34a969'
 date: 2018-11-08T18:32:53Z
 description: Nulla ut erat id mauris vulputate elementum.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","Hugo","Eleventy"]
 title: Overhold workshop

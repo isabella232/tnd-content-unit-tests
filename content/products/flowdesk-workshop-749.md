@@ -3,7 +3,7 @@ color: '#5b6f35'
 date: 2019-03-29T03:16:13Z
 description: Cras in purus eu magna vulputate luctus.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","JAMStack"]
 title: Flowdesk workshop

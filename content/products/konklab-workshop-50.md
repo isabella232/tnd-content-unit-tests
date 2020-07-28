@@ -3,7 +3,7 @@ color: '#36d2d4'
 date: 2019-05-29T05:26:58Z
 description: Mauris sit amet eros.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack"]
 title: Konklab workshop

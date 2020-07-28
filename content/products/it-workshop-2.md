@@ -3,7 +3,7 @@ color: '#7f40c0'
 date: 2019-05-19T11:18:12Z
 description: In congue. Etiam justo.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS","Angular","Eleventy"]
 title: It workshop

@@ -3,7 +3,7 @@ color: '#e5de65'
 date: 2019-01-25T14:41:05Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue","Eleventy"]
 title: Duobam workshop

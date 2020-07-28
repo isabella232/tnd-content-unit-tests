@@ -3,7 +3,7 @@ color: '#f09296'
 date: 2019-02-20T11:18:59Z
 description: Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS","Eleventy"]
 title: Transcof workshop

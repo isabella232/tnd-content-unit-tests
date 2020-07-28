@@ -3,7 +3,7 @@ color: '#bc19e7'
 date: 2019-06-22T11:07:44Z
 description: Nulla ac enim.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","Hugo"]
 title: Lotstring workshop

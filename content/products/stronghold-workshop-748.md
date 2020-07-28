@@ -3,7 +3,7 @@ color: '#d334f7'
 date: 2019-02-24T09:33:06Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue","HTML","CSS"]
 title: Stronghold workshop

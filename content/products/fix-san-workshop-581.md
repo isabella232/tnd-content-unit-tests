@@ -3,7 +3,7 @@ color: '#d35a48'
 date: 2018-12-16T06:31:10Z
 description: Maecenas rhoncus aliquam lacus.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo","JAMStack","Angular"]
 title: Fix San workshop

@@ -3,7 +3,7 @@ color: '#00b595'
 date: 2019-06-02T02:38:14Z
 description: Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS"]
 title: Trippledex workshop

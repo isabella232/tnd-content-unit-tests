@@ -3,7 +3,7 @@ color: '#4b63af'
 date: 2018-12-02T09:21:32Z
 description: Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Eleventy","Vue","Angular"]
 title: Keylex workshop

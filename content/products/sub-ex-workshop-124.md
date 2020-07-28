@@ -3,7 +3,7 @@ color: '#5c982e'
 date: 2019-05-17T02:44:54Z
 description: Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","Angular"]
 title: Sub-Ex workshop

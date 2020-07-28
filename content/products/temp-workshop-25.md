@@ -3,7 +3,7 @@ color: '#728488'
 date: 2019-02-18T15:36:49Z
 description: Pellentesque eget nunc.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","React","JS"]
 title: Temp workshop

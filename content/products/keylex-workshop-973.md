@@ -3,7 +3,7 @@ color: '#674224'
 date: 2019-05-23T11:18:50Z
 description: Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo"]
 title: Keylex workshop

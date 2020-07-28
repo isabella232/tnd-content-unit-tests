@@ -3,7 +3,7 @@ color: '#682c06'
 date: 2019-05-12T05:56:53Z
 description: Fusce posuere felis sed lacus.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","CSS","Angular"]
 title: Andalax workshop

@@ -3,7 +3,7 @@ color: '#5aecdd'
 date: 2019-09-15T14:44:07Z
 description: Praesent blandit lacinia erat.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","JAMStack","Vue"]
 title: Matsoft workshop

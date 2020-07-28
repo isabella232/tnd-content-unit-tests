@@ -3,7 +3,7 @@ color: '#f438a5'
 date: 2019-01-04T07:05:35Z
 description: In eleifend quam a odio. In hac habitasse platea dictumst.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Angular","React","JS"]
 title: Bamity workshop

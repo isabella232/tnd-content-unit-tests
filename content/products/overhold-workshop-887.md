@@ -3,7 +3,7 @@ color: '#99ee20'
 date: 2019-07-07T15:23:04Z
 description: Nullam molestie nibh in lectus. Pellentesque at nulla.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Eleventy"]
 title: Overhold workshop

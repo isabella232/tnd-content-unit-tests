@@ -3,7 +3,7 @@ color: '#2519a7'
 date: 2019-06-18T10:11:59Z
 description: Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML"]
 title: Rank workshop

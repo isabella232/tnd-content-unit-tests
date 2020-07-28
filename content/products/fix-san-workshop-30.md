@@ -3,7 +3,7 @@ color: '#3647de'
 date: 2019-02-07T03:50:17Z
 description: In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JS","Angular"]
 title: Fix San workshop

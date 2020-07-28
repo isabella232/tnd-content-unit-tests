@@ -3,7 +3,7 @@ color: '#4bf597'
 date: 2018-12-13T07:21:43Z
 description: Aenean sit amet justo.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","Hugo","CSS"]
 title: Konklab workshop

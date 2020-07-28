@@ -3,7 +3,7 @@ color: '#14ae70'
 date: 2019-07-29T02:51:49Z
 description: Phasellus sit amet erat. Nulla tempus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","HTML","Hugo"]
 title: Y-find workshop

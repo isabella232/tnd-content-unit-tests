@@ -3,7 +3,7 @@ color: '#968191'
 date: 2019-05-10T19:29:24Z
 description: Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React","HTML","JAMStack"]
 title: Opela workshop

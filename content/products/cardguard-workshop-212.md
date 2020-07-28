@@ -3,7 +3,7 @@ color: '#760b5d'
 date: 2018-10-26T16:58:42Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML"]
 title: Cardguard workshop

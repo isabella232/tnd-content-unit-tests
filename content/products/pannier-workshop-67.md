@@ -3,7 +3,7 @@ color: '#4e6754'
 date: 2019-09-13T07:40:03Z
 description: Etiam faucibus cursus urna. Ut tellus.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","Vue"]
 title: Pannier workshop

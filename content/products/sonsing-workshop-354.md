@@ -3,7 +3,7 @@ color: '#5aadbd'
 date: 2019-02-24T03:00:20Z
 description: Etiam justo.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","Hugo"]
 title: Sonsing workshop

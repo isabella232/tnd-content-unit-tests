@@ -3,7 +3,7 @@ color: '#728659'
 date: 2018-11-05T00:33:21Z
 description: Duis at velit eu est congue elementum.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo"]
 title: Fintone workshop

@@ -3,7 +3,7 @@ color: '#0397ee'
 date: 2019-01-11T21:15:27Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","JAMStack"]
 title: Quo Lux workshop

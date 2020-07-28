@@ -3,7 +3,7 @@ color: '#c63ba5'
 date: 2019-04-30T05:16:03Z
 description: Maecenas pulvinar lobortis est. Phasellus sit amet erat.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular"]
 title: Tin workshop

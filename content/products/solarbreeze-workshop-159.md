@@ -3,7 +3,7 @@ color: '#9576fe'
 date: 2019-03-03T09:44:27Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React","JAMStack","Vue"]
 title: Solarbreeze workshop

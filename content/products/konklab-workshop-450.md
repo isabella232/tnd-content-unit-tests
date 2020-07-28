@@ -3,7 +3,7 @@ color: '#65cb66'
 date: 2019-03-01T00:28:19Z
 description: Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS"]
 title: Konklab workshop

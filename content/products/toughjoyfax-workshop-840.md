@@ -3,7 +3,7 @@ color: '#02192e'
 date: 2019-04-03T09:40:57Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Toughjoyfax workshop

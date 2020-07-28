@@ -3,7 +3,7 @@ color: '#c0636c'
 date: 2018-12-05T22:44:12Z
 description: Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","CSS"]
 title: Cardguard workshop

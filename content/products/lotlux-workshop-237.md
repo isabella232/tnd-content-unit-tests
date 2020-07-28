@@ -3,7 +3,7 @@ color: '#094cdb'
 date: 2019-02-20T07:05:56Z
 description: Quisque porta volutpat erat.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS","Eleventy"]
 title: Lotlux workshop

@@ -3,7 +3,7 @@ color: '#6fe344'
 date: 2019-10-01T05:52:16Z
 description: Nulla ac enim.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","JAMStack","CSS"]
 title: Zaam-Dox workshop

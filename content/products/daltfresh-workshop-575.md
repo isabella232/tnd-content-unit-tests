@@ -3,7 +3,7 @@ color: '#ed31ed'
 date: 2018-12-22T13:30:13Z
 description: Nunc purus.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Daltfresh workshop

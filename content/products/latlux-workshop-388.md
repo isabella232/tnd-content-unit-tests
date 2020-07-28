@@ -3,7 +3,7 @@ color: '#edf8d5'
 date: 2018-11-24T07:26:50Z
 description: Nunc rhoncus dui vel sem.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML"]
 title: Latlux workshop

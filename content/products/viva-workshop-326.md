@@ -3,7 +3,7 @@ color: '#db24a6'
 date: 2019-07-09T10:11:22Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","Vue"]
 title: Viva workshop

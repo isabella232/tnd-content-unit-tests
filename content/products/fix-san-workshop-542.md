@@ -3,7 +3,7 @@ color: '#004c2e'
 date: 2019-06-21T09:05:02Z
 description: Integer ac leo. Pellentesque ultrices mattis odio.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React","JS","Vue"]
 title: Fix San workshop

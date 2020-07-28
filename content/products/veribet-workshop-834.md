@@ -3,7 +3,7 @@ color: '#028f08'
 date: 2018-10-25T09:03:49Z
 description: Phasellus in felis.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React","Vue","Angular"]
 title: Veribet workshop

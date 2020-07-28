@@ -3,7 +3,7 @@ color: '#c46857'
 date: 2019-09-18T18:13:23Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","Angular"]
 title: Temp workshop

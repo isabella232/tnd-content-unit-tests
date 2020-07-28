@@ -3,7 +3,7 @@ color: '#fc737c'
 date: 2019-05-03T11:16:59Z
 description: Nunc nisl.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","Eleventy"]
 title: Greenlam workshop

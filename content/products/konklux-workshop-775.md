@@ -3,7 +3,7 @@ color: '#02e52a'
 date: 2019-04-21T16:34:55Z
 description: Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["CSS","HTML","Angular"]
 title: Konklux workshop

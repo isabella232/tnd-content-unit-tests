@@ -3,7 +3,7 @@ color: '#9b4fcb'
 date: 2019-08-22T04:18:04Z
 description: Fusce posuere felis sed lacus.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy","Vue","React"]
 title: Duobam workshop

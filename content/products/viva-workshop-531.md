@@ -3,7 +3,7 @@ color: '#4ef2c7'
 date: 2019-06-29T00:18:19Z
 description: Donec dapibus. Duis at velit eu est congue elementum.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","Hugo","JAMStack"]
 title: Viva workshop

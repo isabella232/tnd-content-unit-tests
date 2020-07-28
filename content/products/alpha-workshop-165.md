@@ -3,7 +3,7 @@ color: '#e7169e'
 date: 2019-05-20T10:23:46Z
 description: Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML","Vue"]
 title: Alpha workshop

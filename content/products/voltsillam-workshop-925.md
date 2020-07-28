@@ -3,7 +3,7 @@ color: '#fab9b2'
 date: 2019-02-26T02:22:30Z
 description: Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","Eleventy","JAMStack"]
 title: Voltsillam workshop

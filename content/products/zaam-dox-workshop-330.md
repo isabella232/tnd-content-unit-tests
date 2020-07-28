@@ -3,7 +3,7 @@ color: '#b497ad'
 date: 2018-11-21T17:49:38Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","Vue"]
 title: Zaam-Dox workshop

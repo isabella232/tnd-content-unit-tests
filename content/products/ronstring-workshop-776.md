@@ -3,7 +3,7 @@ color: '#b780b7'
 date: 2019-02-20T23:09:07Z
 description: Donec dapibus.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","Hugo"]
 title: Ronstring workshop

@@ -3,7 +3,7 @@ color: '#a5f934'
 date: 2019-02-21T21:50:31Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML"]
 title: Wrapsafe workshop

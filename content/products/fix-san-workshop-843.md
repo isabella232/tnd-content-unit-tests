@@ -3,7 +3,7 @@ color: '#544b58'
 date: 2018-10-30T18:03:57Z
 description: Nulla suscipit ligula in lacus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS","Eleventy"]
 title: Fix San workshop

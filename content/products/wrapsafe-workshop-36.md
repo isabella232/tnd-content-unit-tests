@@ -3,7 +3,7 @@ color: '#ab9d94'
 date: 2018-11-14T19:52:09Z
 description: In quis justo.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Eleventy"]
 title: Wrapsafe workshop

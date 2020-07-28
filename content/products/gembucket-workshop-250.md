@@ -3,7 +3,7 @@ color: '#36d3ee'
 date: 2018-10-28T12:33:24Z
 description: In sagittis dui vel nisl. Duis ac nibh.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS","CSS"]
 title: Gembucket workshop

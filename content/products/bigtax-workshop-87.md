@@ -3,7 +3,7 @@ color: '#d580a8'
 date: 2019-10-05T01:41:30Z
 description: Aenean lectus. Pellentesque eget nunc.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo"]
 title: Bigtax workshop

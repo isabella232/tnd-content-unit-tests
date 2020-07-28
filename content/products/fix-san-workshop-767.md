@@ -3,7 +3,7 @@ color: '#e6fa1e'
 date: 2019-03-18T09:24:27Z
 description: Donec semper sapien a libero.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS","React"]
 title: Fix San workshop

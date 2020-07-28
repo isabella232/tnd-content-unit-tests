@@ -3,7 +3,7 @@ color: '#38d9df'
 date: 2019-04-09T19:33:18Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS","JAMStack","HTML"]
 title: Overhold workshop

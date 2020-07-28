@@ -3,7 +3,7 @@ color: '#3c8031'
 date: 2019-06-23T05:24:06Z
 description: Nulla facilisi. Cras non velit nec nisi vulputate nonummy.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS","HTML","React"]
 title: Mat Lam Tam workshop

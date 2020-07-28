@@ -3,7 +3,7 @@ color: '#99ffd4'
 date: 2018-11-16T04:43:56Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","Eleventy"]
 title: Transcof workshop

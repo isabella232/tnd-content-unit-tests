@@ -3,7 +3,7 @@ color: '#7dad6e'
 date: 2018-12-23T16:24:22Z
 description: Phasellus id sapien in sapien iaculis congue.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS"]
 title: Temp workshop

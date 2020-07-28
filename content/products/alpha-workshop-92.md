@@ -3,7 +3,7 @@ color: '#fed285'
 date: 2018-11-16T12:06:17Z
 description: In hac habitasse platea dictumst.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS","Eleventy"]
 title: Alpha workshop

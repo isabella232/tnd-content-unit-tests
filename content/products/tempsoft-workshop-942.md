@@ -3,7 +3,7 @@ color: '#4a492a'
 date: 2019-05-08T19:25:04Z
 description: Fusce consequat.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","CSS","JAMStack"]
 title: Tempsoft workshop

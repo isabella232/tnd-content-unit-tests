@@ -3,7 +3,7 @@ color: '#5f5ac8'
 date: 2019-06-06T22:41:26Z
 description: Ut at dolor quis odio consequat varius. Integer ac leo.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue","CSS","JS"]
 title: Solarbreeze workshop

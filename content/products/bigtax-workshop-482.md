@@ -3,7 +3,7 @@ color: '#0b1e61'
 date: 2019-05-14T18:09:21Z
 description: Etiam pretium iaculis justo.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Eleventy","JAMStack"]
 title: Bigtax workshop

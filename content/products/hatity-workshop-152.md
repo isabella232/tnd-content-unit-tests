@@ -3,7 +3,7 @@ color: '#40817d'
 date: 2019-08-22T15:35:44Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML","Eleventy","Vue"]
 title: Hatity workshop

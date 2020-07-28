@@ -3,7 +3,7 @@ color: '#c7f9b6'
 date: 2018-11-15T09:28:24Z
 description: Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo"]
 title: Daltfresh workshop

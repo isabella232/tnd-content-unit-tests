@@ -3,7 +3,7 @@ color: '#4f4594'
 date: 2019-07-15T02:00:20Z
 description: Aenean auctor gravida sem.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["React","CSS"]
 title: Tampflex workshop

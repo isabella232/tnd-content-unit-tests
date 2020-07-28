@@ -3,7 +3,7 @@ color: '#2bd843'
 date: 2019-03-20T05:43:05Z
 description: Morbi a ipsum.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS","React"]
 title: Tresom workshop

@@ -3,7 +3,7 @@ color: '#f9f23e'
 date: 2019-03-11T06:33:04Z
 description: Vivamus tortor. Duis mattis egestas metus.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","CSS","Angular"]
 title: Bigtax workshop

@@ -3,7 +3,7 @@ color: '#0674cc'
 date: 2019-07-16T23:09:26Z
 description: Integer a nibh.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Hugo","JAMStack","Vue"]
 title: Matsoft workshop

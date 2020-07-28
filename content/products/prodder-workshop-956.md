@@ -3,7 +3,7 @@ color: '#20766b'
 date: 2019-09-19T23:37:37Z
 description: Donec posuere metus vitae ipsum. Aliquam non mauris.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React","Eleventy"]
 title: Prodder workshop

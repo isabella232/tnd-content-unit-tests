@@ -3,7 +3,7 @@ color: '#e7e2ba'
 date: 2019-04-19T09:18:27Z
 description: Suspendisse ornare consequat lectus.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS"]
 title: Zoolab workshop

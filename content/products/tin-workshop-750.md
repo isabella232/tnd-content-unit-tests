@@ -3,7 +3,7 @@ color: '#3c0347'
 date: 2019-02-07T04:13:31Z
 description: Nulla mollis molestie lorem. Quisque ut erat.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue"]
 title: Tin workshop

@@ -3,7 +3,7 @@ color: '#b42a8c'
 date: 2019-04-24T15:05:54Z
 description: Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","Angular","Vue"]
 title: Regrant workshop

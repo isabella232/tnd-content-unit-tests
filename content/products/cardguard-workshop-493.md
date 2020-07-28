@@ -3,7 +3,7 @@ color: '#b5a11e'
 date: 2018-12-23T16:57:56Z
 description: Donec dapibus. Duis at velit eu est congue elementum.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue","Hugo"]
 title: Cardguard workshop

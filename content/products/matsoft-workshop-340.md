@@ -3,7 +3,7 @@ color: '#3d8d1b'
 date: 2019-07-03T16:16:19Z
 description: In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo"]
 title: Matsoft workshop

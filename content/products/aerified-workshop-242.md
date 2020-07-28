@@ -3,7 +3,7 @@ color: '#aeddde'
 date: 2019-04-29T17:54:01Z
 description: Curabitur convallis.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","HTML"]
 title: Aerified workshop

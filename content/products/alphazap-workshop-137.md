@@ -3,7 +3,7 @@ color: '#e70ccd'
 date: 2018-10-17T05:15:32Z
 description: Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","JS","React"]
 title: Alphazap workshop

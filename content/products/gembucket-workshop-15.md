@@ -3,7 +3,7 @@ color: '#5b75f9'
 date: 2019-04-06T13:23:31Z
 description: Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular"]
 title: Gembucket workshop

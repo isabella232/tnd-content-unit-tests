@@ -3,7 +3,7 @@ color: '#1d95ba'
 date: 2018-10-18T13:25:21Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo","Vue","HTML"]
 title: Tresom workshop

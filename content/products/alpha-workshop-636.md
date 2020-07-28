@@ -3,7 +3,7 @@ color: '#7d7102'
 date: 2019-06-15T07:58:08Z
 description: Suspendisse accumsan tortor quis turpis. Sed ante.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS","Hugo"]
 title: Alpha workshop

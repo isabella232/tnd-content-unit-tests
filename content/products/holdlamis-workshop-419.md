@@ -3,7 +3,7 @@ color: '#7b42e1'
 date: 2018-10-24T12:15:14Z
 description: Sed accumsan felis.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React","Angular"]
 title: Holdlamis workshop

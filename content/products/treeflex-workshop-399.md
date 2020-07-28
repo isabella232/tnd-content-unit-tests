@@ -3,7 +3,7 @@ color: '#df426a'
 date: 2019-08-13T20:06:34Z
 description: Suspendisse potenti. Nullam porttitor lacus at turpis.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","React","HTML"]
 title: Treeflex workshop

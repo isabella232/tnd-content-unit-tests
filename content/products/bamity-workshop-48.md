@@ -3,7 +3,7 @@ color: '#220b90'
 date: 2019-06-30T07:34:54Z
 description: Phasellus sit amet erat.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML"]
 title: Bamity workshop

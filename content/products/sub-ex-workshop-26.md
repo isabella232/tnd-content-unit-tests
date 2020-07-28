@@ -3,7 +3,7 @@ color: '#78509c'
 date: 2019-01-09T13:12:39Z
 description: Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Angular","Eleventy","JAMStack"]
 title: Sub-Ex workshop

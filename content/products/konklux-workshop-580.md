@@ -3,7 +3,7 @@ color: '#c5f62b'
 date: 2019-06-27T16:40:22Z
 description: Suspendisse potenti.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Eleventy"]
 title: Konklux workshop

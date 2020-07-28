@@ -3,7 +3,7 @@ color: '#0b6363'
 date: 2019-01-30T19:48:32Z
 description: Nunc purus. Phasellus in felis.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS","Eleventy","JAMStack"]
 title: Sub-Ex workshop

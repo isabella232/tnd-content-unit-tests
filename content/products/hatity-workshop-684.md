@@ -3,7 +3,7 @@ color: '#050a46'
 date: 2019-08-12T21:37:01Z
 description: Aenean auctor gravida sem.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","Angular"]
 title: Hatity workshop

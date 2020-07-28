@@ -3,7 +3,7 @@ color: '#123b54'
 date: 2019-03-27T20:43:31Z
 description: Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular","JAMStack","JS"]
 title: Stringtough workshop

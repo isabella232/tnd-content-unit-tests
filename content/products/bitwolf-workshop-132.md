@@ -3,7 +3,7 @@ color: '#2b1a83'
 date: 2019-03-26T02:26:17Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular"]
 title: Bitwolf workshop

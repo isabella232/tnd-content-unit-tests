@@ -3,7 +3,7 @@ color: '#4618fd'
 date: 2019-05-27T17:40:03Z
 description: In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","React","Eleventy"]
 title: Home Ing workshop

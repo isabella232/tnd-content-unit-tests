@@ -3,7 +3,7 @@ color: '#e3e9b0'
 date: 2019-04-21T15:58:50Z
 description: Duis ac nibh.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack"]
 title: Wrapsafe workshop

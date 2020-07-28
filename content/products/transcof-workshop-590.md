@@ -3,7 +3,7 @@ color: '#19b424'
 date: 2019-09-29T08:49:28Z
 description: Maecenas rhoncus aliquam lacus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack","Vue"]
 title: Transcof workshop

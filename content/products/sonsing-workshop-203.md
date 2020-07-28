@@ -3,7 +3,7 @@ color: '#9781e4'
 date: 2018-12-20T10:49:04Z
 description: Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS","JAMStack"]
 title: Sonsing workshop

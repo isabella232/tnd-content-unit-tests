@@ -3,7 +3,7 @@ color: '#b7743f'
 date: 2019-07-31T10:55:02Z
 description: Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue","JS"]
 title: Sonair workshop

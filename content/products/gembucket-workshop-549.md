@@ -3,7 +3,7 @@ color: '#b31251'
 date: 2019-01-15T23:21:58Z
 description: Pellentesque viverra pede ac diam.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React"]
 title: Gembucket workshop

@@ -3,7 +3,7 @@ color: '#223acc'
 date: 2019-05-23T23:07:43Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","CSS"]
 title: Zaam-Dox workshop

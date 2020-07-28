@@ -3,7 +3,7 @@ color: '#a338af'
 date: 2019-08-03T10:44:35Z
 description: Integer tincidunt ante vel ipsum.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS"]
 title: Otcom workshop

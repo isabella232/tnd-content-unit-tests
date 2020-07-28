@@ -3,7 +3,7 @@ color: '#b4b824'
 date: 2019-08-21T09:12:44Z
 description: Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML","Hugo","CSS"]
 title: Zoolab workshop

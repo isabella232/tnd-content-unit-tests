@@ -3,7 +3,7 @@ color: '#0a771d'
 date: 2019-02-04T16:54:09Z
 description: Cras in purus eu magna vulputate luctus.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React"]
 title: Tampflex workshop

@@ -3,7 +3,7 @@ color: '#51f450'
 date: 2018-12-18T01:14:04Z
 description: Praesent id massa id nisl venenatis lacinia.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack","JS"]
 title: Overhold workshop

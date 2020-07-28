@@ -3,7 +3,7 @@ color: '#47d668'
 date: 2019-09-24T17:56:33Z
 description: Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack","Vue"]
 title: Tres-Zap workshop

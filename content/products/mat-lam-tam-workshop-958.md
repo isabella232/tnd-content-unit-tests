@@ -3,7 +3,7 @@ color: '#a93fad'
 date: 2019-07-17T16:02:37Z
 description: Vivamus vestibulum sagittis sapien.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS","JS"]
 title: Mat Lam Tam workshop

@@ -3,7 +3,7 @@ color: '#428bf6'
 date: 2019-03-13T19:33:02Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","JS"]
 title: Aerified workshop

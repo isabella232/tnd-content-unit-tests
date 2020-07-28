@@ -3,7 +3,7 @@ color: '#7af923'
 date: 2019-03-11T03:42:22Z
 description: Curabitur in libero ut massa volutpat convallis.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML","Angular","JS"]
 title: Sonsing workshop

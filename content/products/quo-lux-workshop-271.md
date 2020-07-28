@@ -3,7 +3,7 @@ color: '#fcbe7c'
 date: 2019-05-22T06:09:37Z
 description: Etiam justo.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Angular","CSS","JAMStack"]
 title: Quo Lux workshop

@@ -3,7 +3,7 @@ color: '#6920e0'
 date: 2019-09-06T17:24:29Z
 description: Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular","HTML","JS"]
 title: Flexidy workshop

@@ -3,7 +3,7 @@ color: '#fc3e89'
 date: 2018-12-07T17:31:24Z
 description: Pellentesque ultrices mattis odio.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo"]
 title: It workshop

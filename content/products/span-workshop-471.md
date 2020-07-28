@@ -3,7 +3,7 @@ color: '#e94680'
 date: 2019-09-06T16:53:31Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","JAMStack","Vue"]
 title: Span workshop

@@ -3,7 +3,7 @@ color: '#3bc0ef'
 date: 2019-08-29T16:13:41Z
 description: Phasellus in felis.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Tampflex workshop

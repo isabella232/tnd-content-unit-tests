@@ -3,7 +3,7 @@ color: '#d7cf3b'
 date: 2019-07-14T16:35:43Z
 description: Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular","JS","Vue"]
 title: Trippledex workshop

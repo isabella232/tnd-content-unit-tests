@@ -3,7 +3,7 @@ color: '#0b0447'
 date: 2018-11-16T00:18:12Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","Eleventy"]
 title: Tres-Zap workshop

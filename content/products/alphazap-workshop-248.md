@@ -3,7 +3,7 @@ color: '#2a4c49'
 date: 2018-12-22T03:33:58Z
 description: Duis ac nibh.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML"]
 title: Alphazap workshop

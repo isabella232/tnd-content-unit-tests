@@ -3,7 +3,7 @@ color: '#c2eeaa'
 date: 2019-09-06T17:49:10Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS"]
 title: Toughjoyfax workshop

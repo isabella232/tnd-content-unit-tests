@@ -3,7 +3,7 @@ color: '#5de682'
 date: 2019-07-17T01:54:32Z
 description: Suspendisse accumsan tortor quis turpis. Sed ante.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular"]
 title: Flexidy workshop

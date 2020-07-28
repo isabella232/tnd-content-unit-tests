@@ -3,7 +3,7 @@ color: '#e67e93'
 date: 2019-05-06T13:01:58Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo"]
 title: Fixflex workshop

@@ -3,7 +3,7 @@ color: '#412c2e'
 date: 2019-07-02T05:20:40Z
 description: Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS"]
 title: Regrant workshop

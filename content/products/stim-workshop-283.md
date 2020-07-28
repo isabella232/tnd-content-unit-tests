@@ -3,7 +3,7 @@ color: '#18394c'
 date: 2019-08-17T22:26:17Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS"]
 title: Stim workshop

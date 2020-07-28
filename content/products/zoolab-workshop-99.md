@@ -3,7 +3,7 @@ color: '#70e5c3'
 date: 2019-08-31T19:19:27Z
 description: Sed accumsan felis. Ut at dolor quis odio consequat varius.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","CSS","JS"]
 title: Zoolab workshop

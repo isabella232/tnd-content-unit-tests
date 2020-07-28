@@ -3,7 +3,7 @@ color: '#6f72ab'
 date: 2019-03-25T04:51:27Z
 description: Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","React","JAMStack"]
 title: Cookley workshop

@@ -3,7 +3,7 @@ color: '#504990'
 date: 2019-02-24T01:58:43Z
 description: Nullam molestie nibh in lectus.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular"]
 title: Cardguard workshop

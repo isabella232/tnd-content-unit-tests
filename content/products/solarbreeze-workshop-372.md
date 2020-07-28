@@ -3,7 +3,7 @@ color: '#48d4f8'
 date: 2018-12-12T05:18:11Z
 description: Phasellus in felis. Donec semper sapien a libero.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","Angular","React"]
 title: Solarbreeze workshop

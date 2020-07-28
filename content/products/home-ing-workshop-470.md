@@ -3,7 +3,7 @@ color: '#633e0d'
 date: 2019-04-03T11:28:41Z
 description: Praesent blandit lacinia erat.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Eleventy"]
 title: Home Ing workshop

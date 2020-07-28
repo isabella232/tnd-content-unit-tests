@@ -3,7 +3,7 @@ color: '#158a98'
 date: 2019-08-28T22:22:35Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React","Vue","CSS"]
 title: Fintone workshop

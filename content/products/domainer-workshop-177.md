@@ -3,7 +3,7 @@ color: '#38414e'
 date: 2019-08-07T03:13:54Z
 description: Nam dui.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML","Hugo"]
 title: Domainer workshop

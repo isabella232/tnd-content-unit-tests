@@ -3,7 +3,7 @@ color: '#322ae6'
 date: 2018-12-15T09:16:06Z
 description: Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","Hugo","JS"]
 title: Sonair workshop

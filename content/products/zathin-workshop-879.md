@@ -3,7 +3,7 @@ color: '#a46623'
 date: 2019-07-11T01:00:01Z
 description: Donec quis orci eget orci vehicula condimentum.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS","Eleventy"]
 title: Zathin workshop

@@ -3,7 +3,7 @@ color: '#0333c8'
 date: 2018-12-31T06:54:26Z
 description: Duis consequat dui nec nisi volutpat eleifend.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack","React"]
 title: Trippledex workshop

@@ -3,7 +3,7 @@ color: '#dae789'
 date: 2019-01-28T14:22:56Z
 description: In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo","HTML"]
 title: Bitwolf workshop

@@ -3,7 +3,7 @@ color: '#4110bb'
 date: 2018-11-23T09:13:04Z
 description: Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS","Hugo"]
 title: Biodex workshop

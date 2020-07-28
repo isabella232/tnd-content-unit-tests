@@ -3,7 +3,7 @@ color: '#f267e8'
 date: 2019-04-03T16:08:14Z
 description: Etiam justo.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","Eleventy"]
 title: Wrapsafe workshop

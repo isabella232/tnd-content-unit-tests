@@ -3,7 +3,7 @@ color: '#fb0351'
 date: 2019-02-05T12:38:19Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue","HTML"]
 title: Fix San workshop

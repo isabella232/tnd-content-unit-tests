@@ -3,7 +3,7 @@ color: '#ed77cf'
 date: 2018-12-14T13:41:30Z
 description: Vivamus vel nulla eget eros elementum pellentesque.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack"]
 title: Hatity workshop

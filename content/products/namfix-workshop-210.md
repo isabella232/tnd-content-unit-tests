@@ -3,7 +3,7 @@ color: '#c86d86'
 date: 2019-08-19T11:52:31Z
 description: Etiam justo.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack","JS"]
 title: Namfix workshop

@@ -3,7 +3,7 @@ color: '#6f4905'
 date: 2019-07-20T23:21:27Z
 description: In congue.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue"]
 title: Holdlamis workshop

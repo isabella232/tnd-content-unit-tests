@@ -3,7 +3,7 @@ color: '#a808c0'
 date: 2019-03-05T02:52:39Z
 description: Pellentesque at nulla. Suspendisse potenti.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML","Vue"]
 title: Ronstring workshop

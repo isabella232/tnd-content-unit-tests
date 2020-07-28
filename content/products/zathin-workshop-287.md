@@ -3,7 +3,7 @@ color: '#119a03'
 date: 2018-12-01T15:56:53Z
 description: Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Vue","Hugo","HTML"]
 title: Zathin workshop

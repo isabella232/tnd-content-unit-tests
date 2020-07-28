@@ -3,7 +3,7 @@ color: '#b36c3d'
 date: 2018-12-12T11:29:37Z
 description: Nulla justo.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","HTML"]
 title: Quo Lux workshop

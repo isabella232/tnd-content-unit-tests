@@ -3,7 +3,7 @@ color: '#91940d'
 date: 2019-07-13T04:52:10Z
 description: Morbi quis tortor id nulla ultrices aliquet.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular"]
 title: Transcof workshop

@@ -3,7 +3,7 @@ color: '#e6a904'
 date: 2019-02-20T09:38:34Z
 description: In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Hugo","HTML"]
 title: Ronstring workshop

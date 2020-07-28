@@ -3,7 +3,7 @@ color: '#4442d2'
 date: 2019-05-25T12:47:14Z
 description: Duis at velit eu est congue elementum.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","Eleventy"]
 title: Tin workshop

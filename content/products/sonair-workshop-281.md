@@ -3,7 +3,7 @@ color: '#7d7984'
 date: 2018-12-05T18:20:18Z
 description: Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","CSS","JS"]
 title: Sonair workshop

@@ -3,7 +3,7 @@ color: '#5c66f4'
 date: 2019-06-08T17:41:18Z
 description: Suspendisse potenti.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JS","React"]
 title: Flowdesk workshop

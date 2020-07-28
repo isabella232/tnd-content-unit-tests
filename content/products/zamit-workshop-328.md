@@ -3,7 +3,7 @@ color: '#233424'
 date: 2019-02-08T19:22:56Z
 description: In sagittis dui vel nisl. Duis ac nibh.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular","Eleventy","HTML"]
 title: Zamit workshop

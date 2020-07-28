@@ -3,7 +3,7 @@ color: '#91cb27'
 date: 2019-04-19T10:58:09Z
 description: Nunc purus.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","HTML","Angular"]
 title: Kanlam workshop

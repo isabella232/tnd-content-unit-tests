@@ -3,7 +3,7 @@ color: '#c070b6'
 date: 2019-04-02T06:15:07Z
 description: Maecenas tincidunt lacus at velit.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML"]
 title: Veribet workshop

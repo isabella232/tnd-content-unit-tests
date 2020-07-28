@@ -3,7 +3,7 @@ color: '#68f580'
 date: 2019-04-09T03:00:06Z
 description: Sed ante.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Angular"]
 title: Voltsillam workshop

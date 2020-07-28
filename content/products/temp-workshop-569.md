@@ -3,7 +3,7 @@ color: '#0dd272'
 date: 2019-07-12T12:26:04Z
 description: Duis aliquam convallis nunc.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML","JAMStack"]
 title: Temp workshop

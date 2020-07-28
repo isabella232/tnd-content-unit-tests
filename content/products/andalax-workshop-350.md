@@ -3,7 +3,7 @@ color: '#3e0ddc'
 date: 2018-11-12T19:50:51Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo"]
 title: Andalax workshop

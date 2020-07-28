@@ -3,7 +3,7 @@ color: '#195169'
 date: 2019-02-11T10:11:51Z
 description: Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Vue"]
 title: Kanlam workshop

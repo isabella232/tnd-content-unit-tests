@@ -3,7 +3,7 @@ color: '#f4ac13'
 date: 2019-09-21T19:39:58Z
 description: Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML"]
 title: Zamit workshop

@@ -3,7 +3,7 @@ color: '#5f29ef'
 date: 2019-05-30T19:48:19Z
 description: Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","JS"]
 title: Quo Lux workshop

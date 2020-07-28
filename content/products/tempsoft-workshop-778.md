@@ -3,7 +3,7 @@ color: '#02cc89'
 date: 2019-04-15T21:25:02Z
 description: Phasellus id sapien in sapien iaculis congue.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML","CSS"]
 title: Tempsoft workshop

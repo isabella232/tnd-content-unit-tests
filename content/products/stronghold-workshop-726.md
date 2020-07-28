@@ -3,7 +3,7 @@ color: '#c1ee77'
 date: 2019-04-28T18:22:41Z
 description: Duis bibendum.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS"]
 title: Stronghold workshop

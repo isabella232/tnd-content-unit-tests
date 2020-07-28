@@ -3,7 +3,7 @@ color: '#0980cc'
 date: 2018-11-04T01:00:33Z
 description: Aenean fermentum. Donec ut mauris eget massa tempor convallis.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Hugo","React","Angular"]
 title: Pannier workshop

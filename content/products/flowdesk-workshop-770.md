@@ -3,7 +3,7 @@ color: '#313613'
 date: 2019-03-01T14:22:24Z
 description: Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML","Vue"]
 title: Flowdesk workshop

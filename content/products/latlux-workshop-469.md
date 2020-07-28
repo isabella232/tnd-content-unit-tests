@@ -3,7 +3,7 @@ color: '#4b17e4'
 date: 2019-09-09T03:38:57Z
 description: Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular"]
 title: Latlux workshop

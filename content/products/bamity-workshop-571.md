@@ -3,7 +3,7 @@ color: '#b2c5cb'
 date: 2019-06-07T15:13:15Z
 description: Integer ac neque. Duis bibendum.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack"]
 title: Bamity workshop

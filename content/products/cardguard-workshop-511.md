@@ -3,7 +3,7 @@ color: '#899318'
 date: 2019-08-15T00:29:18Z
 description: Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Hugo","JAMStack"]
 title: Cardguard workshop

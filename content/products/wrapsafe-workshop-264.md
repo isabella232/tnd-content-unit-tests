@@ -3,7 +3,7 @@ color: '#5198a8'
 date: 2018-12-29T20:32:25Z
 description: Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML"]
 title: Wrapsafe workshop

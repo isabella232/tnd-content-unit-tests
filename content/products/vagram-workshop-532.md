@@ -3,7 +3,7 @@ color: '#eb1354'
 date: 2019-09-12T16:08:09Z
 description: Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy","Vue"]
 title: Vagram workshop

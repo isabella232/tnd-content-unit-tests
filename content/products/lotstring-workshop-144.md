@@ -3,7 +3,7 @@ color: '#5112cc'
 date: 2019-01-01T06:01:34Z
 description: Phasellus in felis. Donec semper sapien a libero.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","HTML"]
 title: Lotstring workshop

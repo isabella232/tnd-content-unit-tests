@@ -3,7 +3,7 @@ color: '#8d8920'
 date: 2019-10-04T06:47:06Z
 description: Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue","JAMStack"]
 title: Treeflex workshop

@@ -3,7 +3,7 @@ color: '#00cbe0'
 date: 2019-03-16T18:20:47Z
 description: In eleifend quam a odio.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy","JS","Angular"]
 title: Fix San workshop

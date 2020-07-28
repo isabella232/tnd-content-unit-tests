@@ -3,7 +3,7 @@ color: '#6a6a0f'
 date: 2019-03-13T23:26:43Z
 description: In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS"]
 title: Rank workshop

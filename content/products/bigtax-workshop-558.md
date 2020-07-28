@@ -3,7 +3,7 @@ color: '#0734d0'
 date: 2018-12-13T01:50:30Z
 description: Duis at velit eu est congue elementum.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","Vue"]
 title: Bigtax workshop

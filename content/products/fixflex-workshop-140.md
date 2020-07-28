@@ -3,7 +3,7 @@ color: '#b0aca2'
 date: 2018-12-16T14:19:49Z
 description: Etiam pretium iaculis justo.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack"]
 title: Fixflex workshop

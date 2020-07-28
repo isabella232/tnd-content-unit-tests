@@ -3,7 +3,7 @@ color: '#318d54'
 date: 2018-12-08T00:22:06Z
 description: Nullam molestie nibh in lectus.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","Angular","Vue"]
 title: Konklux workshop

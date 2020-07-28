@@ -3,7 +3,7 @@ color: '#d36dec'
 date: 2019-06-19T03:19:17Z
 description: Nulla justo.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","CSS","JAMStack"]
 title: Cardify workshop

@@ -3,7 +3,7 @@ color: '#f05321'
 date: 2019-05-05T13:03:29Z
 description: Maecenas rhoncus aliquam lacus.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","JS"]
 title: Flowdesk workshop

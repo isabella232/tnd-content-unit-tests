@@ -3,7 +3,7 @@ color: '#299d35'
 date: 2019-06-16T02:31:40Z
 description: Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS"]
 title: Fix San workshop

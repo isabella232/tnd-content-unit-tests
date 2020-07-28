@@ -3,7 +3,7 @@ color: '#5c3a9c'
 date: 2019-01-20T16:28:17Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy","CSS","JAMStack"]
 title: Tampflex workshop

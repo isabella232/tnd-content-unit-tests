@@ -3,7 +3,7 @@ color: '#fb9fa4'
 date: 2019-01-04T15:50:03Z
 description: Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","JAMStack","JS"]
 title: Stronghold workshop

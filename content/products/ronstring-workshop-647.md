@@ -3,7 +3,7 @@ color: '#09f5fc'
 date: 2018-10-29T13:01:32Z
 description: Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","HTML","React"]
 title: Ronstring workshop

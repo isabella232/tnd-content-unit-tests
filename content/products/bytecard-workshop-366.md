@@ -3,7 +3,7 @@ color: '#18110a'
 date: 2019-03-15T15:11:28Z
 description: Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","Eleventy","Hugo"]
 title: Bytecard workshop

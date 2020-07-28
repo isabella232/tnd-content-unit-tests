@@ -3,7 +3,7 @@ color: '#4738e3'
 date: 2018-11-26T07:46:39Z
 description: Aliquam erat volutpat. In congue.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue","React","Angular"]
 title: Solarbreeze workshop

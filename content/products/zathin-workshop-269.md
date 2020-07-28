@@ -3,7 +3,7 @@ color: '#344559'
 date: 2019-07-05T22:20:16Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo","CSS","Vue"]
 title: Zathin workshop

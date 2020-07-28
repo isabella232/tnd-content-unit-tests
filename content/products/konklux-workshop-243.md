@@ -3,7 +3,7 @@ color: '#f6d2ec'
 date: 2019-07-30T21:45:00Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS","Hugo"]
 title: Konklux workshop

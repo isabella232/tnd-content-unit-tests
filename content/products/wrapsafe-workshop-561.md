@@ -3,7 +3,7 @@ color: '#db5de1'
 date: 2018-12-04T09:50:25Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","JAMStack"]
 title: Wrapsafe workshop

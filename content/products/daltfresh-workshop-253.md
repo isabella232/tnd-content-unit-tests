@@ -3,7 +3,7 @@ color: '#5b6060'
 date: 2019-02-14T07:17:47Z
 description: Aenean sit amet justo.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","JAMStack","CSS"]
 title: Daltfresh workshop

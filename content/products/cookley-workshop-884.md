@@ -3,7 +3,7 @@ color: '#58d493'
 date: 2019-04-04T22:32:47Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Hugo"]
 title: Cookley workshop

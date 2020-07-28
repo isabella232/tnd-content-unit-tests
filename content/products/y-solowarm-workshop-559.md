@@ -3,7 +3,7 @@ color: '#96f273'
 date: 2019-05-31T04:56:09Z
 description: Praesent blandit lacinia erat.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","Vue"]
 title: Y-Solowarm workshop

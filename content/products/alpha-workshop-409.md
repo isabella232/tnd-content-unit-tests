@@ -3,7 +3,7 @@ color: '#bbf483'
 date: 2018-12-27T12:36:25Z
 description: Suspendisse potenti.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS","HTML","Angular"]
 title: Alpha workshop

@@ -3,7 +3,7 @@ color: '#f59763'
 date: 2019-03-21T03:48:22Z
 description: Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo"]
 title: Bamity workshop

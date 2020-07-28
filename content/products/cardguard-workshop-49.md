@@ -3,7 +3,7 @@ color: '#16667f'
 date: 2019-05-28T01:09:48Z
 description: Etiam faucibus cursus urna. Ut tellus.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS"]
 title: Cardguard workshop

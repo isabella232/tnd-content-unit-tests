@@ -3,7 +3,7 @@ color: '#40807a'
 date: 2019-08-03T15:12:25Z
 description: Suspendisse potenti.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","Hugo","Vue"]
 title: Lotstring workshop

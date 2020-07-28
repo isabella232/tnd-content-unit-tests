@@ -3,7 +3,7 @@ color: '#95db23'
 date: 2018-10-29T07:50:16Z
 description: Donec dapibus.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML","CSS","Angular"]
 title: Keylex workshop

@@ -3,7 +3,7 @@ color: '#d48a6d'
 date: 2019-06-05T22:39:28Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["CSS"]
 title: Job workshop

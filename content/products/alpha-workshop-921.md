@@ -3,7 +3,7 @@ color: '#0f1201'
 date: 2019-08-13T09:45:12Z
 description: Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["React"]
 title: Alpha workshop

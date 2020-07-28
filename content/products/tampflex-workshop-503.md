@@ -3,7 +3,7 @@ color: '#224269'
 date: 2019-08-17T16:45:33Z
 description: Mauris sit amet eros.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack","Eleventy"]
 title: Tampflex workshop

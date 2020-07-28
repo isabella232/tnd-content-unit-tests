@@ -3,7 +3,7 @@ color: '#4be280'
 date: 2019-08-25T16:58:49Z
 description: Suspendisse potenti.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["CSS","HTML"]
 title: Asoka workshop

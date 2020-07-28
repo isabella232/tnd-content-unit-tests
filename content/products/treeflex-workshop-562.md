@@ -3,7 +3,7 @@ color: '#8df59e'
 date: 2019-01-08T20:44:19Z
 description: In eleifend quam a odio. In hac habitasse platea dictumst.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","CSS","Hugo"]
 title: Treeflex workshop

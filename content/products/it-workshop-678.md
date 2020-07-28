@@ -3,7 +3,7 @@ color: '#d5e48a'
 date: 2019-08-11T16:33:19Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JS"]
 title: It workshop

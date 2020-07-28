@@ -1,6 +1,6 @@
 ---
 date: 2019-08-21T22:04:18Z
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructor: "Jobi Rittmeier"
 technologies: ["Vue"]
 title: I did the Fraggor workshop!

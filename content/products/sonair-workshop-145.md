@@ -3,7 +3,7 @@ color: '#e09c33'
 date: 2018-10-21T12:06:29Z
 description: Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular","JS"]
 title: Sonair workshop

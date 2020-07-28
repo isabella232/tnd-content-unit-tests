@@ -3,7 +3,7 @@ color: '#a465c7'
 date: 2019-09-30T06:18:38Z
 description: Proin leo odio, porttitor id, consequat in, consequat ut, nulla.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack"]
 title: Ronstring workshop

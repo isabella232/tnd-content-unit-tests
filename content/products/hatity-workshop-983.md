@@ -3,7 +3,7 @@ color: '#3e4fb2'
 date: 2019-07-02T17:04:00Z
 description: Nulla tempus.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","CSS","Vue"]
 title: Hatity workshop

@@ -3,7 +3,7 @@ color: '#908126'
 date: 2019-02-14T06:51:05Z
 description: Suspendisse potenti. Nullam porttitor lacus at turpis.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","JAMStack","Eleventy"]
 title: Mat Lam Tam workshop

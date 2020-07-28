@@ -3,7 +3,7 @@ color: '#851c91'
 date: 2018-12-10T17:11:35Z
 description: Pellentesque eget nunc.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular"]
 title: Hatity workshop

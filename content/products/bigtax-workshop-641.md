@@ -3,7 +3,7 @@ color: '#4b2be9'
 date: 2019-01-03T04:42:21Z
 description: Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","JS"]
 title: Bigtax workshop

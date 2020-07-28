@@ -3,7 +3,7 @@ color: '#99f80d'
 date: 2019-03-19T05:01:45Z
 description: Ut at dolor quis odio consequat varius.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo","React"]
 title: Transcof workshop

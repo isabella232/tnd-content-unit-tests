@@ -3,7 +3,7 @@ color: '#daef6b'
 date: 2019-01-22T18:57:15Z
 description: In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS"]
 title: Y-find workshop

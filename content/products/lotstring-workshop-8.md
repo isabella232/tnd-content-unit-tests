@@ -3,7 +3,7 @@ color: '#1c810d'
 date: 2019-05-12T06:20:14Z
 description: Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Eleventy"]
 title: Lotstring workshop

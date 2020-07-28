@@ -3,7 +3,7 @@ color: '#ec5b00'
 date: 2019-04-11T20:29:11Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","JAMStack"]
 title: Tres-Zap workshop

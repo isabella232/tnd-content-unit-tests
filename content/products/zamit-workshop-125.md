@@ -3,7 +3,7 @@ color: '#2c7cf1'
 date: 2018-12-28T04:47:32Z
 description: In congue.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","JAMStack","Eleventy"]
 title: Zamit workshop

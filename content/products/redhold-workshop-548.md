@@ -3,7 +3,7 @@ color: '#ff109d'
 date: 2019-05-30T19:22:35Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","Angular"]
 title: Redhold workshop

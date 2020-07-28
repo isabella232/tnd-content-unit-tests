@@ -3,7 +3,7 @@ color: '#69c93f'
 date: 2019-04-19T16:43:18Z
 description: Praesent id massa id nisl venenatis lacinia.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy"]
 title: Kanlam workshop

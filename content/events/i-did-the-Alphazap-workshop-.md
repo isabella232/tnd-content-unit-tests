@@ -1,6 +1,6 @@
 ---
 date: 2019-07-24T14:04:03Z
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructor: "Mable Folkerts"
 technologies: ["JAMStack"]
 title: I did the Alphazap workshop!

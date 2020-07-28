@@ -3,7 +3,7 @@ color: '#dec158'
 date: 2019-09-03T13:38:25Z
 description: In eleifend quam a odio.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS","JS"]
 title: Bitchip workshop

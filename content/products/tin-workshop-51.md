@@ -3,7 +3,7 @@ color: '#e91d4c'
 date: 2018-12-27T00:32:24Z
 description: Quisque porta volutpat erat.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","Vue","Eleventy"]
 title: Tin workshop

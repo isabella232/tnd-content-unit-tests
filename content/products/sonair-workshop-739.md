@@ -3,7 +3,7 @@ color: '#ace664'
 date: 2019-01-21T15:52:21Z
 description: Morbi a ipsum.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML","Angular"]
 title: Sonair workshop

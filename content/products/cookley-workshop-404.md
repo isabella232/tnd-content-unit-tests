@@ -3,7 +3,7 @@ color: '#a0c19f'
 date: 2018-12-04T23:00:59Z
 description: Aenean lectus. Pellentesque eget nunc.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","HTML"]
 title: Cookley workshop

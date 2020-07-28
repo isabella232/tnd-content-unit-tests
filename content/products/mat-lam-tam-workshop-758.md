@@ -3,7 +3,7 @@ color: '#f5f088'
 date: 2018-10-15T19:14:33Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy","JS","HTML"]
 title: Mat Lam Tam workshop

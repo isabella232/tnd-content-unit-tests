@@ -3,7 +3,7 @@ color: '#3cd8e2'
 date: 2019-07-08T02:31:19Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue","Hugo"]
 title: Latlux workshop

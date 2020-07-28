@@ -3,7 +3,7 @@ color: '#d9b376'
 date: 2018-10-31T01:12:33Z
 description: Nulla suscipit ligula in lacus.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","Vue","JS"]
 title: Bytecard workshop

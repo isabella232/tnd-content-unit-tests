@@ -3,7 +3,7 @@ color: '#a566f0'
 date: 2019-03-21T01:16:58Z
 description: Etiam justo. Etiam pretium iaculis justo.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML"]
 title: Ronstring workshop

@@ -3,7 +3,7 @@ color: '#df6965'
 date: 2019-07-11T09:33:27Z
 description: Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","CSS","JAMStack"]
 title: Andalax workshop

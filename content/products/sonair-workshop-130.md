@@ -3,7 +3,7 @@ color: '#142d97'
 date: 2019-01-21T09:08:26Z
 description: Quisque id justo sit amet sapien dignissim vestibulum.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","HTML"]
 title: Sonair workshop

@@ -3,7 +3,7 @@ color: '#f22e8a'
 date: 2019-02-01T21:34:59Z
 description: Nulla ac enim.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","Hugo","React"]
 title: Konklux workshop

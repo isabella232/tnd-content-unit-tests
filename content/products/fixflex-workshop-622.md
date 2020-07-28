@@ -3,7 +3,7 @@ color: '#faf431'
 date: 2019-06-21T11:35:15Z
 description: Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack","Hugo","Eleventy"]
 title: Fixflex workshop

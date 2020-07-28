@@ -3,7 +3,7 @@ color: '#9a6c94'
 date: 2018-12-10T09:50:33Z
 description: In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","CSS"]
 title: Alphazap workshop

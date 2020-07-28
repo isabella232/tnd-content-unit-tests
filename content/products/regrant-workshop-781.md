@@ -3,7 +3,7 @@ color: '#d2c0b2'
 date: 2019-02-02T12:09:54Z
 description: Curabitur gravida nisi at nibh. In hac habitasse platea dictumst.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS","Hugo","Vue"]
 title: Regrant workshop

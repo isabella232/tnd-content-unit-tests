@@ -3,7 +3,7 @@ color: '#7430ed'
 date: 2019-09-14T23:51:56Z
 description: Proin risus. Praesent lectus.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React"]
 title: Mat Lam Tam workshop

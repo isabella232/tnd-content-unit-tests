@@ -3,7 +3,7 @@ color: '#e67347'
 date: 2019-07-20T03:57:39Z
 description: Quisque id justo sit amet sapien dignissim vestibulum.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","JS"]
 title: Y-find workshop

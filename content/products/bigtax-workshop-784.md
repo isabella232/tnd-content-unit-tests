@@ -3,7 +3,7 @@ color: '#9fe4b8'
 date: 2019-07-12T07:24:31Z
 description: Integer a nibh. In quis justo.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["React","JAMStack","JS"]
 title: Bigtax workshop

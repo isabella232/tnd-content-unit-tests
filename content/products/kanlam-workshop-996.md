@@ -3,7 +3,7 @@ color: '#ba37e7'
 date: 2018-12-25T22:23:27Z
 description: Quisque ut erat.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","Hugo"]
 title: Kanlam workshop

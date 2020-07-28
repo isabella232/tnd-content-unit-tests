@@ -3,7 +3,7 @@ color: '#617070'
 date: 2019-05-02T23:51:37Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy","JAMStack"]
 title: It workshop

@@ -3,7 +3,7 @@ color: '#2cb945'
 date: 2019-07-02T05:25:03Z
 description: Suspendisse potenti. In eleifend quam a odio.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","JS","Vue"]
 title: Zathin workshop

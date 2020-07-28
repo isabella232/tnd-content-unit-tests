@@ -3,7 +3,7 @@ color: '#600956'
 date: 2019-09-16T21:21:20Z
 description: Nulla facilisi. Cras non velit nec nisi vulputate nonummy.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","Angular"]
 title: Zaam-Dox workshop

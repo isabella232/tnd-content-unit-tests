@@ -3,7 +3,7 @@ color: '#07dc80'
 date: 2019-07-24T06:49:57Z
 description: Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue"]
 title: Aerified workshop

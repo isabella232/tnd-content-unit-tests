@@ -3,7 +3,7 @@ color: '#9b898b'
 date: 2018-12-18T20:45:41Z
 description: Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React","Eleventy","Vue"]
 title: Fintone workshop

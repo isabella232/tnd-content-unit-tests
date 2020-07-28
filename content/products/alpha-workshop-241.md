@@ -3,7 +3,7 @@ color: '#93f04f'
 date: 2018-12-28T23:58:30Z
 description: In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy","JAMStack"]
 title: Alpha workshop

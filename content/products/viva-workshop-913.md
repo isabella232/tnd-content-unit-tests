@@ -3,7 +3,7 @@ color: '#5da06f'
 date: 2019-02-24T14:13:26Z
 description: Nulla tellus.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue","JS","HTML"]
 title: Viva workshop

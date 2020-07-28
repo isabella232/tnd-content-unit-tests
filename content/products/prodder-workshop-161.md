@@ -3,7 +3,7 @@ color: '#c4e887'
 date: 2019-04-03T03:27:44Z
 description: Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML","React","Vue"]
 title: Prodder workshop

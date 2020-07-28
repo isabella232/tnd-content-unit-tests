@@ -3,7 +3,7 @@ color: '#e74c73'
 date: 2018-11-05T07:04:27Z
 description: Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS","JAMStack"]
 title: Cardify workshop

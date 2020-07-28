@@ -3,7 +3,7 @@ color: '#3ffbe5'
 date: 2019-02-19T21:01:23Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","Vue"]
 title: Duobam workshop

@@ -3,7 +3,7 @@ color: '#2c8d07'
 date: 2019-02-22T14:41:48Z
 description: Aliquam sit amet diam in magna bibendum imperdiet.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue","Eleventy","JS"]
 title: Job workshop

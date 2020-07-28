@@ -3,7 +3,7 @@ color: '#909e95'
 date: 2019-08-11T08:17:03Z
 description: Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack"]
 title: Alphazap workshop

@@ -3,7 +3,7 @@ color: '#fcb98a'
 date: 2019-01-02T05:13:15Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS","Angular","JS"]
 title: Prodder workshop

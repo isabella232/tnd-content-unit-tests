@@ -3,7 +3,7 @@ color: '#8131f2'
 date: 2019-06-30T06:51:22Z
 description: Nulla justo.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","HTML","Hugo"]
 title: Job workshop

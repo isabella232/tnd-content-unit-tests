@@ -3,7 +3,7 @@ color: '#1e3b51'
 date: 2019-03-19T03:02:34Z
 description: Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","CSS","Angular"]
 title: Wrapsafe workshop

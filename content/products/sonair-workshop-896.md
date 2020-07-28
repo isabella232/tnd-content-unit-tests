@@ -3,7 +3,7 @@ color: '#006421'
 date: 2019-06-01T13:59:09Z
 description: Integer ac neque.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML","CSS","Angular"]
 title: Sonair workshop

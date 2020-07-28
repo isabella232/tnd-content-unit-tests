@@ -3,7 +3,7 @@ color: '#0e445c'
 date: 2019-05-11T03:05:03Z
 description: Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML"]
 title: Rank workshop

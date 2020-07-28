@@ -3,7 +3,7 @@ color: '#57364a'
 date: 2019-02-04T07:43:11Z
 description: Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML"]
 title: Matsoft workshop

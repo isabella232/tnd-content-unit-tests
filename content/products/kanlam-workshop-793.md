@@ -3,7 +3,7 @@ color: '#cd9e09'
 date: 2018-11-26T23:33:59Z
 description: Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS","JAMStack","Angular"]
 title: Kanlam workshop

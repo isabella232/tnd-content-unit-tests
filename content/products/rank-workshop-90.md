@@ -3,7 +3,7 @@ color: '#0d35e6'
 date: 2019-07-12T04:09:39Z
 description: Etiam justo. Etiam pretium iaculis justo.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","Angular"]
 title: Rank workshop

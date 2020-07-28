@@ -3,7 +3,7 @@ color: '#1bcc71'
 date: 2019-04-12T04:06:31Z
 description: Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack","React","HTML"]
 title: Asoka workshop

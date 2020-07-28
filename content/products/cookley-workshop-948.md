@@ -3,7 +3,7 @@ color: '#a2c14b'
 date: 2019-06-27T10:25:07Z
 description: Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS"]
 title: Cookley workshop

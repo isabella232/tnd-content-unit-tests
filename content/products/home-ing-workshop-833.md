@@ -3,7 +3,7 @@ color: '#d881e0'
 date: 2019-01-24T08:27:24Z
 description: Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","CSS"]
 title: Home Ing workshop

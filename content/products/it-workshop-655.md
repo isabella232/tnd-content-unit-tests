@@ -3,7 +3,7 @@ color: '#037640'
 date: 2019-08-26T21:03:55Z
 description: Suspendisse potenti.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","React"]
 title: It workshop

@@ -3,7 +3,7 @@ color: '#a1d009'
 date: 2019-08-13T18:00:16Z
 description: In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack"]
 title: Tampflex workshop

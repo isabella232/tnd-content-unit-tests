@@ -3,7 +3,7 @@ color: '#5f3f8c'
 date: 2019-08-16T00:50:15Z
 description: Etiam faucibus cursus urna. Ut tellus.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML"]
 title: Fintone workshop

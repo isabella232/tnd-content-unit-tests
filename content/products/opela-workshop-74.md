@@ -3,7 +3,7 @@ color: '#5020b2'
 date: 2018-10-23T12:55:27Z
 description: Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","CSS"]
 title: Opela workshop

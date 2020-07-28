@@ -3,7 +3,7 @@ color: '#b1a197'
 date: 2019-05-10T19:46:27Z
 description: Sed ante.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue","JAMStack"]
 title: Cookley workshop

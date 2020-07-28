@@ -3,7 +3,7 @@ color: '#7cce1e'
 date: 2019-03-28T23:27:30Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML","JS"]
 title: Ventosanzap workshop

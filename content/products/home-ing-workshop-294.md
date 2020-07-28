@@ -3,7 +3,7 @@ color: '#64a3eb'
 date: 2018-11-28T19:09:48Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","CSS","JS"]
 title: Home Ing workshop

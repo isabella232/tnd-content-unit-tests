@@ -3,7 +3,7 @@ color: '#fe73e8'
 date: 2019-03-06T23:32:29Z
 description: Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS"]
 title: Pannier workshop

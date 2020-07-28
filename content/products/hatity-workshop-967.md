@@ -3,7 +3,7 @@ color: '#5ddcdf'
 date: 2018-12-03T18:41:27Z
 description: Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue"]
 title: Hatity workshop

@@ -3,7 +3,7 @@ color: '#9461cb'
 date: 2019-08-26T16:49:28Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS","Hugo","Eleventy"]
 title: Tin workshop

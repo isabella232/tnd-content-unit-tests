@@ -3,7 +3,7 @@ color: '#8f22ef'
 date: 2018-10-14T18:34:52Z
 description: Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS","Hugo","Angular"]
 title: Quo Lux workshop

@@ -3,7 +3,7 @@ color: '#d38270'
 date: 2019-07-20T22:04:33Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS"]
 title: Lotstring workshop

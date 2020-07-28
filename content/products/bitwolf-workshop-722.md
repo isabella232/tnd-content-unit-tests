@@ -3,7 +3,7 @@ color: '#9abd87'
 date: 2019-02-08T09:36:49Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","JS","HTML"]
 title: Bitwolf workshop

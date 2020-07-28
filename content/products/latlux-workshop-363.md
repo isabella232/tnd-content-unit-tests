@@ -3,7 +3,7 @@ color: '#f16316'
 date: 2019-10-09T01:28:50Z
 description: Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","Vue","Eleventy"]
 title: Latlux workshop

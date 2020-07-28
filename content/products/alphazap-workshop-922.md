@@ -3,7 +3,7 @@ color: '#1dc8e0'
 date: 2019-04-19T12:50:43Z
 description: Praesent lectus.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular","JAMStack"]
 title: Alphazap workshop

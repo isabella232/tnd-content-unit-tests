@@ -3,7 +3,7 @@ color: '#dee7de'
 date: 2018-10-27T16:20:51Z
 description: Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","Angular"]
 title: Transcof workshop

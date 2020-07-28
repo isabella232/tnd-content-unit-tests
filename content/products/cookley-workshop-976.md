@@ -3,7 +3,7 @@ color: '#5ed52c'
 date: 2018-10-24T20:41:02Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack"]
 title: Cookley workshop

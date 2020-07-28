@@ -3,7 +3,7 @@ color: '#7afce6'
 date: 2018-12-04T18:40:00Z
 description: Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack","Hugo"]
 title: Prodder workshop

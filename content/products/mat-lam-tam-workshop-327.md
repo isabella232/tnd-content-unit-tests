@@ -3,7 +3,7 @@ color: '#c9e131'
 date: 2019-03-13T15:50:55Z
 description: Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML"]
 title: Mat Lam Tam workshop

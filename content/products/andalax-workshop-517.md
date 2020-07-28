@@ -3,7 +3,7 @@ color: '#d11361'
 date: 2019-03-10T08:27:21Z
 description: Donec semper sapien a libero. Nam dui.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS","JAMStack","CSS"]
 title: Andalax workshop

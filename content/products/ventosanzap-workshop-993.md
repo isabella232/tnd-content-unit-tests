@@ -3,7 +3,7 @@ color: '#0a58c8'
 date: 2018-12-30T11:47:06Z
 description: Etiam justo.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","JS"]
 title: Ventosanzap workshop

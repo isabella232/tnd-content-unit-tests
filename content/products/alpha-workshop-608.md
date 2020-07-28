@@ -3,7 +3,7 @@ color: '#a49033'
 date: 2019-04-16T23:30:14Z
 description: Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular"]
 title: Alpha workshop

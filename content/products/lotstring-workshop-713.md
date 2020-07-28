@@ -3,7 +3,7 @@ color: '#aa5116'
 date: 2019-06-27T07:51:31Z
 description: Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS"]
 title: Lotstring workshop

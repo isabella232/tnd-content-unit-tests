@@ -3,7 +3,7 @@ color: '#024e93'
 date: 2019-04-04T16:19:58Z
 description: Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy"]
 title: Veribet workshop

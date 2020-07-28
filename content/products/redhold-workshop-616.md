@@ -3,7 +3,7 @@ color: '#11549a'
 date: 2019-05-22T18:45:20Z
 description: Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack","Hugo","React"]
 title: Redhold workshop

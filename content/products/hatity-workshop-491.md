@@ -3,7 +3,7 @@ color: '#0bac03'
 date: 2019-08-07T04:37:48Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue"]
 title: Hatity workshop

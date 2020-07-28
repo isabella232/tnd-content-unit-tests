@@ -3,7 +3,7 @@ color: '#fa69cf'
 date: 2018-10-28T07:19:49Z
 description: Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML","JAMStack"]
 title: Prodder workshop

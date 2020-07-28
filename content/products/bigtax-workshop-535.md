@@ -3,7 +3,7 @@ color: '#48541a'
 date: 2019-09-12T20:38:29Z
 description: Donec ut mauris eget massa tempor convallis.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML","JS"]
 title: Bigtax workshop

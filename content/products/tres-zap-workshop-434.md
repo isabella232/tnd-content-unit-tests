@@ -3,7 +3,7 @@ color: '#f323cf'
 date: 2019-01-04T16:16:36Z
 description: In eleifend quam a odio.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","CSS"]
 title: Tres-Zap workshop

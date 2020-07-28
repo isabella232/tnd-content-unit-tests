@@ -3,7 +3,7 @@ color: '#9e3a13'
 date: 2019-06-15T20:08:53Z
 description: Proin eu mi.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","HTML"]
 title: Duobam workshop

@@ -3,7 +3,7 @@ color: '#f2fa33'
 date: 2019-01-25T03:16:06Z
 description: Integer a nibh. In quis justo.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy","React"]
 title: Fix San workshop

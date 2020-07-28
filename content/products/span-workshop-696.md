@@ -3,7 +3,7 @@ color: '#c40d34'
 date: 2019-10-07T23:04:33Z
 description: Quisque ut erat. Curabitur gravida nisi at nibh.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Angular","Hugo"]
 title: Span workshop

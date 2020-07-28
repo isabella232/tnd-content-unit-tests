@@ -3,7 +3,7 @@ color: '#b8460c'
 date: 2018-11-01T11:52:52Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","Angular"]
 title: Span workshop

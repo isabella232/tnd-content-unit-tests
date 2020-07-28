@@ -3,7 +3,7 @@ color: '#bdbc0f'
 date: 2019-02-17T04:46:11Z
 description: Proin at turpis a pede posuere nonummy.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo","JAMStack"]
 title: Bigtax workshop

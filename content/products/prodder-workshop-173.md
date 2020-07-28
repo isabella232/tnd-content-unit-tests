@@ -3,7 +3,7 @@ color: '#11e016'
 date: 2018-11-25T01:52:16Z
 description: Aenean fermentum.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML"]
 title: Prodder workshop

@@ -3,7 +3,7 @@ color: '#0e483f'
 date: 2019-10-04T06:23:40Z
 description: Ut at dolor quis odio consequat varius. Integer ac leo.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular","Eleventy","JS"]
 title: Fix San workshop

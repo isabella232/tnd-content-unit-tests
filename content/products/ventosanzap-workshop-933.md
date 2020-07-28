@@ -3,7 +3,7 @@ color: '#651148'
 date: 2019-05-01T22:35:20Z
 description: Quisque porta volutpat erat.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo"]
 title: Ventosanzap workshop

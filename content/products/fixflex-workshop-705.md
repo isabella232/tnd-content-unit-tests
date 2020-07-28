@@ -3,7 +3,7 @@ color: '#97fd17'
 date: 2019-09-09T06:37:11Z
 description: Etiam vel augue. Vestibulum rutrum rutrum neque.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Hugo","JS"]
 title: Fixflex workshop

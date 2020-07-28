@@ -3,7 +3,7 @@ color: '#a1d3c6'
 date: 2019-09-17T18:20:28Z
 description: Sed ante. Vivamus tortor.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular","JS","Vue"]
 title: Daltfresh workshop

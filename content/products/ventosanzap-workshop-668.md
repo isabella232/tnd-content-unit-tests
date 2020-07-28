@@ -3,7 +3,7 @@ color: '#5a2ce8'
 date: 2019-04-30T20:18:13Z
 description: Duis ac nibh.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","Angular","JAMStack"]
 title: Ventosanzap workshop

@@ -3,7 +3,7 @@ color: '#170276'
 date: 2019-03-23T13:25:03Z
 description: Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","JS","Vue"]
 title: Lotlux workshop

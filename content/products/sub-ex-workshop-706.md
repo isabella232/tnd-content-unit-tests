@@ -3,7 +3,7 @@ color: '#3d8c0d'
 date: 2019-07-11T20:39:21Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue"]
 title: Sub-Ex workshop

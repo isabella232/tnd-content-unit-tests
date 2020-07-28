@@ -3,7 +3,7 @@ color: '#5099b1'
 date: 2019-06-15T21:34:18Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS","Angular"]
 title: Y-find workshop

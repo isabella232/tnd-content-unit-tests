@@ -3,7 +3,7 @@ color: '#ffecde'
 date: 2018-12-17T11:42:49Z
 description: Integer a nibh.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Vue"]
 title: Daltfresh workshop

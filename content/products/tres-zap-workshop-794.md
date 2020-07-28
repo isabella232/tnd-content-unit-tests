@@ -3,7 +3,7 @@ color: '#20e5e6'
 date: 2018-12-22T17:02:05Z
 description: Aliquam non mauris. Morbi non lectus.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML"]
 title: Tres-Zap workshop

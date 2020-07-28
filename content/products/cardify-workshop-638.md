@@ -3,7 +3,7 @@ color: '#ec067e'
 date: 2019-09-23T06:34:43Z
 description: Aliquam quis turpis eget elit sodales scelerisque.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","Angular"]
 title: Cardify workshop

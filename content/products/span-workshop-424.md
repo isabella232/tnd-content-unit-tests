@@ -3,7 +3,7 @@ color: '#2f1036'
 date: 2018-12-23T06:51:12Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","React"]
 title: Span workshop

@@ -3,7 +3,7 @@ color: '#0e13c4'
 date: 2019-03-22T04:47:12Z
 description: Phasellus in felis. Donec semper sapien a libero.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS"]
 title: Temp workshop

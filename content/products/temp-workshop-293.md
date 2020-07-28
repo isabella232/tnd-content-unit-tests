@@ -3,7 +3,7 @@ color: '#0db06d'
 date: 2018-12-13T04:10:08Z
 description: Aliquam non mauris. Morbi non lectus.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","Angular","Hugo"]
 title: Temp workshop

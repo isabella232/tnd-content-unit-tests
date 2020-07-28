@@ -3,7 +3,7 @@ color: '#128435'
 date: 2019-07-27T13:21:40Z
 description: Pellentesque eget nunc.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","Hugo"]
 title: Bitchip workshop

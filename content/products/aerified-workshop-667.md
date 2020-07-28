@@ -3,7 +3,7 @@ color: '#2f3c6e'
 date: 2018-12-11T04:20:05Z
 description: Proin eu mi. Nulla ac enim.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","Eleventy"]
 title: Aerified workshop

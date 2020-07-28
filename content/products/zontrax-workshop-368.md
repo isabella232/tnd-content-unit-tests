@@ -3,7 +3,7 @@ color: '#1657b9'
 date: 2018-12-18T07:41:27Z
 description: Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS","Eleventy"]
 title: Zontrax workshop

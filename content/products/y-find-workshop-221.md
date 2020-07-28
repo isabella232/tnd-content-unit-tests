@@ -3,7 +3,7 @@ color: '#3db8b1'
 date: 2019-05-11T17:11:13Z
 description: Sed vel enim sit amet nunc viverra dapibus.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS","React"]
 title: Y-find workshop

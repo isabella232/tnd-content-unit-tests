@@ -1,6 +1,6 @@
 ---
 date: 2018-10-23T10:48:09Z
-image: /images/ws_image_7.jpg
+image: /images/tnd-content-unit-tests/ws_image_7.jpg
 instructor: "Rozanne Gunn"
 technologies: ["JS","CSS","Angular"]
 title: I did the Regrant workshop!

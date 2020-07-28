@@ -3,7 +3,7 @@ color: '#3c3a8a'
 date: 2019-08-31T00:54:03Z
 description: Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS","HTML"]
 title: Andalax workshop

@@ -3,7 +3,7 @@ color: '#af2b23'
 date: 2018-12-06T21:52:01Z
 description: Etiam faucibus cursus urna. Ut tellus.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo"]
 title: Bigtax workshop

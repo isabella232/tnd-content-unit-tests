@@ -3,7 +3,7 @@ color: '#9b9783'
 date: 2019-02-13T00:40:37Z
 description: Nulla justo.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","JS","Angular"]
 title: Redhold workshop

@@ -3,7 +3,7 @@ color: '#0ff970'
 date: 2019-04-14T21:48:00Z
 description: Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue","CSS"]
 title: Veribet workshop

@@ -3,7 +3,7 @@ color: '#c3cb13'
 date: 2018-12-08T14:04:32Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","CSS"]
 title: Redhold workshop

@@ -3,7 +3,7 @@ color: '#a770b8'
 date: 2019-08-05T20:51:51Z
 description: Etiam vel augue. Vestibulum rutrum rutrum neque.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","HTML"]
 title: Matsoft workshop

@@ -3,7 +3,7 @@ color: '#9d4786'
 date: 2018-12-08T04:29:24Z
 description: Integer a nibh.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","Eleventy"]
 title: Aerified workshop

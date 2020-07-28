@@ -3,7 +3,7 @@ color: '#004066'
 date: 2018-11-23T20:48:21Z
 description: Vivamus vestibulum sagittis sapien.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Hugo"]
 title: Prodder workshop

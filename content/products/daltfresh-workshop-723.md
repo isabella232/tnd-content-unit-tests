@@ -3,7 +3,7 @@ color: '#81bdc0'
 date: 2019-04-24T13:32:07Z
 description: Duis at velit eu est congue elementum.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML"]
 title: Daltfresh workshop

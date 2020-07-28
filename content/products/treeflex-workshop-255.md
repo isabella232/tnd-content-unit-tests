@@ -3,7 +3,7 @@ color: '#e9b437'
 date: 2019-06-22T12:41:58Z
 description: Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue"]
 title: Treeflex workshop

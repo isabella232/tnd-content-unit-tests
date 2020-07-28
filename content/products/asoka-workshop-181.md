@@ -3,7 +3,7 @@ color: '#f31b4d'
 date: 2018-10-24T22:05:34Z
 description: Donec dapibus. Duis at velit eu est congue elementum.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML","Angular"]
 title: Asoka workshop

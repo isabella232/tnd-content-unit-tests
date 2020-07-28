@@ -3,7 +3,7 @@ color: '#521cce'
 date: 2019-03-17T02:22:40Z
 description: Aliquam erat volutpat. In congue.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","HTML"]
 title: Mat Lam Tam workshop

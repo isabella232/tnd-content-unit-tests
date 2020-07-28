@@ -3,7 +3,7 @@ color: '#d33f44'
 date: 2019-07-11T08:09:10Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Y-Solowarm workshop

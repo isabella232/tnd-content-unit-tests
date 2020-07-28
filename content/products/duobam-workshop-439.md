@@ -3,7 +3,7 @@ color: '#42607d'
 date: 2019-02-08T12:35:49Z
 description: In eleifend quam a odio.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","HTML"]
 title: Duobam workshop

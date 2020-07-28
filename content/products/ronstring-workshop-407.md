@@ -3,7 +3,7 @@ color: '#431599'
 date: 2018-12-13T05:06:06Z
 description: Mauris sit amet eros.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","Angular","JAMStack"]
 title: Ronstring workshop

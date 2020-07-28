@@ -3,7 +3,7 @@ color: '#f25d1f'
 date: 2019-02-14T00:23:57Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","Hugo"]
 title: Prodder workshop

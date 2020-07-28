@@ -3,7 +3,7 @@ color: '#476bfa'
 date: 2018-12-28T05:20:12Z
 description: Quisque id justo sit amet sapien dignissim vestibulum.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","Eleventy"]
 title: Y-find workshop

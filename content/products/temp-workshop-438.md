@@ -3,7 +3,7 @@ color: '#2dcdec'
 date: 2019-08-08T18:31:07Z
 description: Cras in purus eu magna vulputate luctus.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy"]
 title: Temp workshop

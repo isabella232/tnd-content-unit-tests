@@ -3,7 +3,7 @@ color: '#5b1f50'
 date: 2019-01-07T18:25:54Z
 description: Quisque ut erat. Curabitur gravida nisi at nibh.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo","JS","Eleventy"]
 title: Flowdesk workshop

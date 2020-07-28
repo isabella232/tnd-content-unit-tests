@@ -3,7 +3,7 @@ color: '#9a2980'
 date: 2019-04-07T19:02:15Z
 description: Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML","JS"]
 title: Zamit workshop

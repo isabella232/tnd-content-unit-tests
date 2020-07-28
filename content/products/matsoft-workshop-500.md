@@ -3,7 +3,7 @@ color: '#a31a0e'
 date: 2019-04-27T06:30:35Z
 description: Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular"]
 title: Matsoft workshop

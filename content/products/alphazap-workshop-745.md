@@ -3,7 +3,7 @@ color: '#c29391'
 date: 2019-05-16T13:55:02Z
 description: Morbi non quam nec dui luctus rutrum. Nulla tellus.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular"]
 title: Alphazap workshop

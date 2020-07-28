@@ -3,7 +3,7 @@ color: '#002d80'
 date: 2019-01-29T09:06:51Z
 description: Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Zoolab workshop

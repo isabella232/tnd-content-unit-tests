@@ -3,7 +3,7 @@ color: '#0a4147'
 date: 2019-01-12T07:14:02Z
 description: In sagittis dui vel nisl.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","JS","JAMStack"]
 title: Otcom workshop

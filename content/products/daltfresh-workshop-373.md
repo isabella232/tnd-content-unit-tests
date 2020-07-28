@@ -3,7 +3,7 @@ color: '#0e15a3'
 date: 2019-01-13T22:55:49Z
 description: Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","CSS"]
 title: Daltfresh workshop

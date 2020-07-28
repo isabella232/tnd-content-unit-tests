@@ -3,7 +3,7 @@ color: '#246b5f'
 date: 2019-08-06T14:41:51Z
 description: Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy"]
 title: Voltsillam workshop

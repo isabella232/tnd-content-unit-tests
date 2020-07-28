@@ -3,7 +3,7 @@ color: '#30fd39'
 date: 2019-07-05T01:55:56Z
 description: Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","CSS","JS"]
 title: Mat Lam Tam workshop

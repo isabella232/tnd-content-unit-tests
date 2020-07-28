@@ -3,7 +3,7 @@ color: '#89dc0d'
 date: 2019-04-27T05:45:58Z
 description: Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML","CSS"]
 title: Tampflex workshop

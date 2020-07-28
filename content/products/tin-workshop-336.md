@@ -3,7 +3,7 @@ color: '#66222e'
 date: 2019-01-12T00:56:17Z
 description: Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular","JAMStack","HTML"]
 title: Tin workshop

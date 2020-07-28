@@ -3,7 +3,7 @@ color: '#47dd24'
 date: 2018-11-23T06:09:28Z
 description: Vivamus tortor.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["CSS","Eleventy"]
 title: Ventosanzap workshop

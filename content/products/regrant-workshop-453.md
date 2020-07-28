@@ -3,7 +3,7 @@ color: '#7a3cad'
 date: 2018-10-29T04:43:35Z
 description: Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React"]
 title: Regrant workshop

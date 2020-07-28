@@ -3,7 +3,7 @@ color: '#4d55b8'
 date: 2019-10-07T01:26:20Z
 description: Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","CSS","Eleventy"]
 title: Trippledex workshop

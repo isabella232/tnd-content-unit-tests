@@ -3,7 +3,7 @@ color: '#d82ade'
 date: 2019-06-01T02:51:37Z
 description: Donec dapibus.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Hugo"]
 title: Keylex workshop

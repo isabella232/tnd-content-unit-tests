@@ -1,6 +1,6 @@
 ---
 date: 2018-10-15T10:17:00Z
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructor: "Berkie Langley"
 technologies: ["HTML"]
 title: I did the Biodex workshop!

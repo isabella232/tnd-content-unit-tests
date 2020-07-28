@@ -3,7 +3,7 @@ color: '#87aa5a'
 date: 2019-03-04T01:45:32Z
 description: Morbi ut odio.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","JAMStack","Eleventy"]
 title: Pannier workshop

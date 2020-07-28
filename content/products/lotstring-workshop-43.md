@@ -3,7 +3,7 @@ color: '#b8a4d1'
 date: 2018-10-29T18:09:56Z
 description: Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy","JAMStack","CSS"]
 title: Lotstring workshop

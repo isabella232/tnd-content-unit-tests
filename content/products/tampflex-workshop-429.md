@@ -3,7 +3,7 @@ color: '#d83b97'
 date: 2019-02-24T07:44:52Z
 description: Nulla tellus. In sagittis dui vel nisl.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Tampflex workshop

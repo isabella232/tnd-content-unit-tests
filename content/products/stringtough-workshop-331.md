@@ -3,7 +3,7 @@ color: '#a38e67'
 date: 2018-12-23T13:22:57Z
 description: Nulla mollis molestie lorem.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS","Hugo","Angular"]
 title: Stringtough workshop

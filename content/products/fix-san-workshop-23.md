@@ -3,7 +3,7 @@ color: '#a21376'
 date: 2019-10-08T19:07:27Z
 description: Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","JS","Angular"]
 title: Fix San workshop

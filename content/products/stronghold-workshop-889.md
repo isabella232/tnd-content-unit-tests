@@ -3,7 +3,7 @@ color: '#ddae02'
 date: 2019-02-14T12:09:27Z
 description: Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo"]
 title: Stronghold workshop

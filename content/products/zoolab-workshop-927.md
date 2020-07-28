@@ -3,7 +3,7 @@ color: '#29aa29'
 date: 2019-05-01T20:51:24Z
 description: Vivamus tortor. Duis mattis egestas metus.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy"]
 title: Zoolab workshop

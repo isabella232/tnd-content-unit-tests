@@ -3,7 +3,7 @@ color: '#248707'
 date: 2019-06-03T11:04:39Z
 description: Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","Eleventy"]
 title: Vagram workshop

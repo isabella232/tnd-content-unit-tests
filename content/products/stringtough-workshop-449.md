@@ -3,7 +3,7 @@ color: '#66dcde'
 date: 2018-11-01T01:18:24Z
 description: Vestibulum ac est lacinia nisi venenatis tristique.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS"]
 title: Stringtough workshop

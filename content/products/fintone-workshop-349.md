@@ -3,7 +3,7 @@ color: '#be346c'
 date: 2018-11-02T13:32:38Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","CSS"]
 title: Fintone workshop

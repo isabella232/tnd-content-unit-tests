@@ -3,7 +3,7 @@ color: '#57bde7'
 date: 2019-02-16T11:24:27Z
 description: Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Vue"]
 title: Opela workshop

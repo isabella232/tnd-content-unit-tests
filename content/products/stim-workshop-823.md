@@ -3,7 +3,7 @@ color: '#651433'
 date: 2019-01-15T21:21:15Z
 description: Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","Angular","JAMStack"]
 title: Stim workshop

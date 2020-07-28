@@ -3,7 +3,7 @@ color: '#708a87'
 date: 2019-09-21T07:51:04Z
 description: Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","CSS"]
 title: Alphazap workshop

@@ -3,7 +3,7 @@ color: '#9175c2'
 date: 2019-08-10T08:16:55Z
 description: Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Eleventy","JS","React"]
 title: Zoolab workshop

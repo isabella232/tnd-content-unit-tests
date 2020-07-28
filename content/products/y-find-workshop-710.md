@@ -3,7 +3,7 @@ color: '#d62a1e'
 date: 2018-12-02T02:35:32Z
 description: Aenean fermentum.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular"]
 title: Y-find workshop

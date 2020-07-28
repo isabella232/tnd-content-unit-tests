@@ -3,7 +3,7 @@ color: '#71f4bf'
 date: 2019-02-10T22:58:35Z
 description: Etiam pretium iaculis justo.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JS","Hugo"]
 title: Bytecard workshop

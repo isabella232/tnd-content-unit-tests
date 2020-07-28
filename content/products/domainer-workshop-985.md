@@ -3,7 +3,7 @@ color: '#9d8940'
 date: 2019-03-05T18:43:20Z
 description: In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React"]
 title: Domainer workshop

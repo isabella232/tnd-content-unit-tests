@@ -3,7 +3,7 @@ color: '#adb220'
 date: 2019-05-11T13:39:30Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","Vue","CSS"]
 title: Vagram workshop

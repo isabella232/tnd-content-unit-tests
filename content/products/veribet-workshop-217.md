@@ -3,7 +3,7 @@ color: '#645ccb'
 date: 2019-08-17T12:37:26Z
 description: Sed accumsan felis.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Angular","HTML"]
 title: Veribet workshop

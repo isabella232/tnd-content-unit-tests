@@ -3,7 +3,7 @@ color: '#2efed3'
 date: 2019-07-24T11:29:22Z
 description: Sed accumsan felis. Ut at dolor quis odio consequat varius.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","CSS"]
 title: Andalax workshop

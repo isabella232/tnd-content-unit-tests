@@ -3,7 +3,7 @@ color: '#09d457'
 date: 2019-01-05T12:32:15Z
 description: Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS","Vue"]
 title: Vagram workshop

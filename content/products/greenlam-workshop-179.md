@@ -3,7 +3,7 @@ color: '#8e25ad'
 date: 2019-01-24T22:57:18Z
 description: Sed accumsan felis. Ut at dolor quis odio consequat varius.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","Eleventy","Angular"]
 title: Greenlam workshop

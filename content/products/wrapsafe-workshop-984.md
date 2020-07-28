@@ -3,7 +3,7 @@ color: '#b0b658'
 date: 2019-06-09T07:35:55Z
 description: Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Angular"]
 title: Wrapsafe workshop

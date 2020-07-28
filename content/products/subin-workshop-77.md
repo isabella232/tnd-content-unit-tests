@@ -3,7 +3,7 @@ color: '#a6cede'
 date: 2019-10-09T21:17:54Z
 description: Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS"]
 title: Subin workshop

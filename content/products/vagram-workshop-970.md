@@ -3,7 +3,7 @@ color: '#3cc867'
 date: 2019-02-25T11:20:23Z
 description: Proin eu mi.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS","React"]
 title: Vagram workshop

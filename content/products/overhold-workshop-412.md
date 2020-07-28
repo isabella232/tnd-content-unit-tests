@@ -3,7 +3,7 @@ color: '#aabc9f'
 date: 2019-10-02T09:49:48Z
 description: Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy","Angular"]
 title: Overhold workshop

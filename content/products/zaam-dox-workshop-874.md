@@ -3,7 +3,7 @@ color: '#26a7a7'
 date: 2019-05-03T23:31:46Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","Vue","React"]
 title: Zaam-Dox workshop

@@ -3,7 +3,7 @@ color: '#edbe4d'
 date: 2018-12-04T01:06:08Z
 description: In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","HTML"]
 title: Cookley workshop

@@ -3,7 +3,7 @@ color: '#6f0217'
 date: 2019-04-23T23:40:49Z
 description: Suspendisse accumsan tortor quis turpis. Sed ante.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS"]
 title: Bigtax workshop

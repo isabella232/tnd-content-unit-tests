@@ -3,7 +3,7 @@ color: '#f47364'
 date: 2019-04-26T00:44:58Z
 description: Proin leo odio, porttitor id, consequat in, consequat ut, nulla.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS"]
 title: Regrant workshop

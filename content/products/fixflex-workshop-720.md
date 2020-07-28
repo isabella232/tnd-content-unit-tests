@@ -3,7 +3,7 @@ color: '#71ec28'
 date: 2019-03-26T04:30:03Z
 description: Pellentesque viverra pede ac diam.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack"]
 title: Fixflex workshop

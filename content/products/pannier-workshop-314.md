@@ -3,7 +3,7 @@ color: '#4337fc'
 date: 2018-11-26T02:40:38Z
 description: Praesent blandit. Nam nulla.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack","React"]
 title: Pannier workshop

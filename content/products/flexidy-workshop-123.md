@@ -3,7 +3,7 @@ color: '#96314a'
 date: 2019-03-25T16:43:31Z
 description: Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","React","Angular"]
 title: Flexidy workshop

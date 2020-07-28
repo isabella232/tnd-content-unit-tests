@@ -3,7 +3,7 @@ color: '#73d113'
 date: 2019-09-22T04:13:38Z
 description: Aliquam non mauris. Morbi non lectus.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo"]
 title: Tresom workshop

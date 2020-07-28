@@ -3,7 +3,7 @@ color: '#7f48e7'
 date: 2019-01-03T09:15:54Z
 description: Morbi non quam nec dui luctus rutrum.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Tempsoft workshop

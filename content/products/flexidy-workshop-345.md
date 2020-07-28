@@ -3,7 +3,7 @@ color: '#6fb61f'
 date: 2019-03-30T12:12:38Z
 description: In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack","HTML"]
 title: Flexidy workshop

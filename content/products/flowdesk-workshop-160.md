@@ -3,7 +3,7 @@ color: '#e965a7'
 date: 2019-09-18T17:27:50Z
 description: Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","JS"]
 title: Flowdesk workshop

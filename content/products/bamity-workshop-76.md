@@ -3,7 +3,7 @@ color: '#db54a8'
 date: 2018-10-29T01:28:39Z
 description: Donec ut mauris eget massa tempor convallis.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Eleventy"]
 title: Bamity workshop

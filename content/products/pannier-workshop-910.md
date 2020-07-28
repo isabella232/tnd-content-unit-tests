@@ -3,7 +3,7 @@ color: '#73cb07'
 date: 2018-12-25T02:03:47Z
 description: In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS","HTML"]
 title: Pannier workshop

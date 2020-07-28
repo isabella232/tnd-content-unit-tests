@@ -3,7 +3,7 @@ color: '#5136ef'
 date: 2019-04-28T12:15:24Z
 description: Integer ac neque.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML","Eleventy"]
 title: Konklux workshop

@@ -3,7 +3,7 @@ color: '#7c1334'
 date: 2019-06-17T19:54:29Z
 description: Sed vel enim sit amet nunc viverra dapibus.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML"]
 title: Voltsillam workshop

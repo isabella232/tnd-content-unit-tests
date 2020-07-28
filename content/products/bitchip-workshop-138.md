@@ -3,7 +3,7 @@ color: '#2927bc'
 date: 2019-05-08T15:58:25Z
 description: Nulla mollis molestie lorem. Quisque ut erat.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular"]
 title: Bitchip workshop

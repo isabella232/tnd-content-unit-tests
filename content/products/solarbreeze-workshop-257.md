@@ -3,7 +3,7 @@ color: '#e0d109'
 date: 2019-10-07T02:25:03Z
 description: Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS","Vue","JAMStack"]
 title: Solarbreeze workshop

@@ -3,7 +3,7 @@ color: '#998afe'
 date: 2019-07-28T16:34:05Z
 description: Integer non velit.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS","Angular","JAMStack"]
 title: Tampflex workshop

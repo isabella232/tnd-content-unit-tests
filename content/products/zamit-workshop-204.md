@@ -3,7 +3,7 @@ color: '#80eee2'
 date: 2019-05-09T03:17:31Z
 description: Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","JAMStack","Vue"]
 title: Zamit workshop

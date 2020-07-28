@@ -3,7 +3,7 @@ color: '#9197c9'
 date: 2019-08-25T10:15:12Z
 description: In sagittis dui vel nisl. Duis ac nibh.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Flowdesk workshop

@@ -3,7 +3,7 @@ color: '#791bd4'
 date: 2019-09-03T01:18:54Z
 description: Vestibulum sed magna at nunc commodo placerat.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack","Eleventy","HTML"]
 title: Rank workshop

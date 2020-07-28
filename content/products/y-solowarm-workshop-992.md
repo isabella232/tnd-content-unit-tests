@@ -3,7 +3,7 @@ color: '#bf52bf'
 date: 2019-03-13T04:29:47Z
 description: Duis bibendum.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["React","JS"]
 title: Y-Solowarm workshop

@@ -3,7 +3,7 @@ color: '#2a664a'
 date: 2018-12-28T09:01:54Z
 description: Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Hugo"]
 title: Zaam-Dox workshop

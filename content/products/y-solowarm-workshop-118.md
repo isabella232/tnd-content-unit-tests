@@ -3,7 +3,7 @@ color: '#326634'
 date: 2019-03-30T11:39:22Z
 description: Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","React","HTML"]
 title: Y-Solowarm workshop

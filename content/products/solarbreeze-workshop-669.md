@@ -3,7 +3,7 @@ color: '#5b2558'
 date: 2019-07-04T09:54:39Z
 description: Vestibulum sed magna at nunc commodo placerat.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Vue","CSS"]
 title: Solarbreeze workshop

@@ -3,7 +3,7 @@ color: '#5ec0fe'
 date: 2019-08-02T23:08:31Z
 description: Nulla justo.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","Eleventy","JS"]
 title: Redhold workshop

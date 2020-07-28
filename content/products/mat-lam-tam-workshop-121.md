@@ -3,7 +3,7 @@ color: '#8f3eec'
 date: 2018-11-06T13:30:59Z
 description: Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML"]
 title: Mat Lam Tam workshop

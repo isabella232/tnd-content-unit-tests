@@ -3,7 +3,7 @@ color: '#49f5b3'
 date: 2019-02-28T13:41:41Z
 description: Duis ac nibh.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","Vue"]
 title: Cardguard workshop

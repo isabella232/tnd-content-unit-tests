@@ -3,7 +3,7 @@ color: '#417e4e'
 date: 2019-02-13T15:14:45Z
 description: Praesent lectus.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy"]
 title: Fix San workshop

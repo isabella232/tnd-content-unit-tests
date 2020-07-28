@@ -3,7 +3,7 @@ color: '#5945de'
 date: 2019-06-30T14:37:43Z
 description: Fusce consequat. Nulla nisl.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","Eleventy"]
 title: Stronghold workshop

@@ -3,7 +3,7 @@ color: '#d81708'
 date: 2019-05-19T11:17:30Z
 description: Duis mattis egestas metus.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML","Hugo"]
 title: Solarbreeze workshop

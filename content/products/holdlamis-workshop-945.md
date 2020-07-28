@@ -3,7 +3,7 @@ color: '#f679a9'
 date: 2018-12-05T14:09:28Z
 description: Nunc rhoncus dui vel sem. Sed sagittis.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","Angular"]
 title: Holdlamis workshop

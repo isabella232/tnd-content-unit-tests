@@ -3,7 +3,7 @@ color: '#a20e10'
 date: 2019-04-15T08:45:49Z
 description: Morbi non lectus.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Eleventy","JAMStack","CSS"]
 title: Biodex workshop

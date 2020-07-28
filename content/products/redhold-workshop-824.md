@@ -3,7 +3,7 @@ color: '#605973'
 date: 2019-07-21T04:04:48Z
 description: Phasellus sit amet erat. Nulla tempus.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","React"]
 title: Redhold workshop

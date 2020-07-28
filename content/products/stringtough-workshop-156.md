@@ -3,7 +3,7 @@ color: '#25952c'
 date: 2019-08-06T00:16:13Z
 description: Praesent id massa id nisl venenatis lacinia.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","CSS"]
 title: Stringtough workshop

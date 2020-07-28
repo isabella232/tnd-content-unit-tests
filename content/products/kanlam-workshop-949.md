@@ -3,7 +3,7 @@ color: '#bdd975'
 date: 2018-11-21T11:39:15Z
 description: In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","Angular"]
 title: Kanlam workshop

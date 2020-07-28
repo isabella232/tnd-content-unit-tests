@@ -3,7 +3,7 @@ color: '#29be99'
 date: 2019-09-24T06:31:41Z
 description: Nullam molestie nibh in lectus.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML"]
 title: Temp workshop

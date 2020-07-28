@@ -3,7 +3,7 @@ color: '#7a3fa7'
 date: 2018-10-27T03:16:46Z
 description: Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue"]
 title: Mat Lam Tam workshop

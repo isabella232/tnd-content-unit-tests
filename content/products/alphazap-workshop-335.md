@@ -3,7 +3,7 @@ color: '#49598c'
 date: 2019-02-08T10:20:55Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React"]
 title: Alphazap workshop

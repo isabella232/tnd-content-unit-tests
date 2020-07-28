@@ -3,7 +3,7 @@ color: '#71c48f'
 date: 2019-06-27T03:14:21Z
 description: Integer a nibh. In quis justo.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","CSS","React"]
 title: Tin workshop

@@ -3,7 +3,7 @@ color: '#e7f4c6'
 date: 2019-02-23T13:14:13Z
 description: Nunc purus. Phasellus in felis.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","JS","HTML"]
 title: Domainer workshop

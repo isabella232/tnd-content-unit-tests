@@ -3,7 +3,7 @@ color: '#7f9946'
 date: 2019-08-06T14:59:47Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Hugo","HTML"]
 title: Treeflex workshop

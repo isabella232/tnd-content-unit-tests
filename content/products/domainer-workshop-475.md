@@ -3,7 +3,7 @@ color: '#bbfb65'
 date: 2018-11-15T08:15:58Z
 description: In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Vue","JS"]
 title: Domainer workshop

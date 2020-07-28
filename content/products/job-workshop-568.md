@@ -3,7 +3,7 @@ color: '#a36155'
 date: 2018-11-23T00:50:32Z
 description: Fusce posuere felis sed lacus.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React"]
 title: Job workshop

@@ -3,7 +3,7 @@ color: '#9008f1'
 date: 2019-07-08T23:20:02Z
 description: Praesent lectus.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["React","Angular"]
 title: Tresom workshop

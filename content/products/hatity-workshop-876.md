@@ -3,7 +3,7 @@ color: '#f88953'
 date: 2019-01-07T06:59:33Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy"]
 title: Hatity workshop

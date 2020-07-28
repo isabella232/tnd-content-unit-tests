@@ -3,7 +3,7 @@ color: '#f918c0'
 date: 2019-09-10T23:53:37Z
 description: Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","Hugo","CSS"]
 title: Vagram workshop

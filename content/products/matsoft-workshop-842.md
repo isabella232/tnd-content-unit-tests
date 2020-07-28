@@ -3,7 +3,7 @@ color: '#7a50ee'
 date: 2018-10-18T15:58:41Z
 description: Duis mattis egestas metus. Aenean fermentum.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML","CSS","Angular"]
 title: Matsoft workshop

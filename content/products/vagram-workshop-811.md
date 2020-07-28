@@ -3,7 +3,7 @@ color: '#183710'
 date: 2019-08-27T03:04:30Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue","JS"]
 title: Vagram workshop

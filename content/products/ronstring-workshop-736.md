@@ -3,7 +3,7 @@ color: '#f497ef'
 date: 2019-08-06T04:32:44Z
 description: Duis bibendum. Morbi non quam nec dui luctus rutrum.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS"]
 title: Ronstring workshop

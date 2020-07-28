@@ -3,7 +3,7 @@ color: '#72151f'
 date: 2018-11-23T21:55:44Z
 description: Duis bibendum. Morbi non quam nec dui luctus rutrum.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Eleventy","JS","HTML"]
 title: Voyatouch workshop

@@ -3,7 +3,7 @@ color: '#ad38c6'
 date: 2018-11-19T06:48:26Z
 description: In blandit ultrices enim.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue"]
 title: Y-Solowarm workshop

@@ -3,7 +3,7 @@ color: '#6c0837'
 date: 2019-08-18T03:51:09Z
 description: Phasellus sit amet erat. Nulla tempus.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","React"]
 title: Zathin workshop

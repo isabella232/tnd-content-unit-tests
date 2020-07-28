@@ -3,7 +3,7 @@ color: '#15394c'
 date: 2019-04-16T06:25:38Z
 description: Vestibulum rutrum rutrum neque.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Ventosanzap workshop

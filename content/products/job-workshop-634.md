@@ -3,7 +3,7 @@ color: '#99caaf'
 date: 2018-12-03T00:26:04Z
 description: Integer ac neque. Duis bibendum.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","Angular"]
 title: Job workshop

@@ -3,7 +3,7 @@ color: '#08cc6f'
 date: 2019-01-04T09:42:41Z
 description: Sed accumsan felis.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS"]
 title: Vagram workshop

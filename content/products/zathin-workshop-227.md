@@ -3,7 +3,7 @@ color: '#994fde'
 date: 2019-01-05T14:21:34Z
 description: Nulla nisl. Nunc nisl.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS"]
 title: Zathin workshop

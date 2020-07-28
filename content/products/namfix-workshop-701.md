@@ -3,7 +3,7 @@ color: '#1143bc'
 date: 2019-02-10T00:59:44Z
 description: Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","Eleventy","JS"]
 title: Namfix workshop

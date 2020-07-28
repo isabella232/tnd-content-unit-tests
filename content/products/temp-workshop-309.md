@@ -3,7 +3,7 @@ color: '#e095fb'
 date: 2018-12-14T14:01:30Z
 description: Curabitur gravida nisi at nibh.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["HTML","React","Eleventy"]
 title: Temp workshop

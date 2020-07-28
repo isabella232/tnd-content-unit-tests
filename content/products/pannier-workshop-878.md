@@ -3,7 +3,7 @@ color: '#2d45d5'
 date: 2019-08-25T14:46:59Z
 description: In sagittis dui vel nisl.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","CSS"]
 title: Pannier workshop

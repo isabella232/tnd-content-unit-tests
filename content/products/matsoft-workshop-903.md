@@ -3,7 +3,7 @@ color: '#05e8e8'
 date: 2019-08-02T03:04:53Z
 description: Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","JAMStack"]
 title: Matsoft workshop

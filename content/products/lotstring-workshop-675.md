@@ -3,7 +3,7 @@ color: '#0de56f'
 date: 2019-02-05T21:10:04Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","Vue","CSS"]
 title: Lotstring workshop

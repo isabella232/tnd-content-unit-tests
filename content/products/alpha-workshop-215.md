@@ -3,7 +3,7 @@ color: '#75cd63'
 date: 2019-08-14T09:49:49Z
 description: In sagittis dui vel nisl. Duis ac nibh.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo","HTML","JAMStack"]
 title: Alpha workshop

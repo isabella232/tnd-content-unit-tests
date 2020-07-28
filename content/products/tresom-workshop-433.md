@@ -3,7 +3,7 @@ color: '#7c487f'
 date: 2019-08-27T12:23:44Z
 description: Pellentesque at nulla. Suspendisse potenti.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy"]
 title: Tresom workshop

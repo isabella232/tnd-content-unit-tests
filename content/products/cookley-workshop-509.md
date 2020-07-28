@@ -3,7 +3,7 @@ color: '#526fa5'
 date: 2018-11-20T00:42:01Z
 description: Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack"]
 title: Cookley workshop

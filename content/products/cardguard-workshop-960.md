@@ -3,7 +3,7 @@ color: '#15c0be'
 date: 2018-12-08T01:11:00Z
 description: Pellentesque at nulla. Suspendisse potenti.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Eleventy","JS"]
 title: Cardguard workshop

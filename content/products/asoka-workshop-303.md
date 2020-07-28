@@ -3,7 +3,7 @@ color: '#79c6af'
 date: 2018-12-12T10:53:47Z
 description: Integer ac leo.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS","JAMStack"]
 title: Asoka workshop

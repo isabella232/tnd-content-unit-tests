@@ -3,7 +3,7 @@ color: '#221c15'
 date: 2019-08-03T23:52:40Z
 description: Vivamus vel nulla eget eros elementum pellentesque.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular","JS","React"]
 title: Daltfresh workshop

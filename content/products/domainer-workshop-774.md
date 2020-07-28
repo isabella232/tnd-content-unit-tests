@@ -3,7 +3,7 @@ color: '#d22baa'
 date: 2019-08-16T17:28:33Z
 description: Proin risus.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS"]
 title: Domainer workshop

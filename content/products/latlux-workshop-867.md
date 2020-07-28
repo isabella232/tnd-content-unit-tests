@@ -3,7 +3,7 @@ color: '#9b7865'
 date: 2019-01-31T19:43:38Z
 description: Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","React"]
 title: Latlux workshop

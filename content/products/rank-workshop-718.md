@@ -3,7 +3,7 @@ color: '#8b1bd9'
 date: 2019-08-04T12:06:32Z
 description: Praesent lectus.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS","JAMStack","Vue"]
 title: Rank workshop

@@ -3,7 +3,7 @@ color: '#8ab912'
 date: 2018-12-08T21:58:33Z
 description: Vivamus vestibulum sagittis sapien.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Tempsoft workshop

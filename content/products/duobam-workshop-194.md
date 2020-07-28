@@ -3,7 +3,7 @@ color: '#0b72df'
 date: 2019-07-13T21:16:20Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML","Angular","Vue"]
 title: Duobam workshop

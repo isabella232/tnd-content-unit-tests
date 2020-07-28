@@ -3,7 +3,7 @@ color: '#8655c5'
 date: 2019-06-14T02:05:34Z
 description: Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Fintone workshop

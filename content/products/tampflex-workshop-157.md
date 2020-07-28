@@ -3,7 +3,7 @@ color: '#11b22b'
 date: 2019-02-01T06:41:21Z
 description: Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Angular","JS","React"]
 title: Tampflex workshop

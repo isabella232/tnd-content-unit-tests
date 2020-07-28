@@ -3,7 +3,7 @@ color: '#57771d'
 date: 2019-09-13T12:09:36Z
 description: Proin at turpis a pede posuere nonummy. Integer non velit.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Angular"]
 title: Redhold workshop

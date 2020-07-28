@@ -3,7 +3,7 @@ color: '#025409'
 date: 2018-11-19T07:57:54Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","React"]
 title: Y-Solowarm workshop

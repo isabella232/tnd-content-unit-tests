@@ -3,7 +3,7 @@ color: '#8172dd'
 date: 2019-08-06T00:52:30Z
 description: Suspendisse potenti. Nullam porttitor lacus at turpis.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Eleventy","React"]
 title: Viva workshop

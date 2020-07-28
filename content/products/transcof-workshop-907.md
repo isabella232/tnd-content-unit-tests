@@ -3,7 +3,7 @@ color: '#1d08f1'
 date: 2019-05-26T03:39:21Z
 description: Aenean sit amet justo.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS"]
 title: Transcof workshop

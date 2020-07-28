@@ -3,7 +3,7 @@ color: '#aa564a'
 date: 2019-01-01T08:17:21Z
 description: Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS"]
 title: Konklab workshop

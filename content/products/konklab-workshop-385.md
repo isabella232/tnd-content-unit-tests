@@ -3,7 +3,7 @@ color: '#59d93f'
 date: 2019-07-25T00:39:59Z
 description: Duis consequat dui nec nisi volutpat eleifend.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML"]
 title: Konklab workshop

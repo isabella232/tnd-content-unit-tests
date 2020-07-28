@@ -3,7 +3,7 @@ color: '#4797c0'
 date: 2019-05-10T11:26:00Z
 description: Aliquam quis turpis eget elit sodales scelerisque.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular"]
 title: Bitwolf workshop

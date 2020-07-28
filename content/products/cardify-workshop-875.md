@@ -3,7 +3,7 @@ color: '#b5527a'
 date: 2019-02-11T07:06:12Z
 description: Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack"]
 title: Cardify workshop

@@ -3,7 +3,7 @@ color: '#9fb127'
 date: 2019-06-12T10:51:22Z
 description: In hac habitasse platea dictumst.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React","HTML","Eleventy"]
 title: Span workshop

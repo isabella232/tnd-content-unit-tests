@@ -3,7 +3,7 @@ color: '#b27a54'
 date: 2019-07-10T08:38:23Z
 description: Cras pellentesque volutpat dui.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue","CSS"]
 title: Stim workshop

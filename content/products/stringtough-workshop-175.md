@@ -3,7 +3,7 @@ color: '#6371fc'
 date: 2019-07-21T05:15:16Z
 description: Integer ac leo. Pellentesque ultrices mattis odio.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML","JAMStack"]
 title: Stringtough workshop

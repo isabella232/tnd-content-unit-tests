@@ -3,7 +3,7 @@ color: '#0f9ad1'
 date: 2019-08-20T11:25:17Z
 description: Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML"]
 title: Ventosanzap workshop

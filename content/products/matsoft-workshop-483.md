@@ -3,7 +3,7 @@ color: '#5c3071'
 date: 2019-07-01T15:55:16Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","React"]
 title: Matsoft workshop

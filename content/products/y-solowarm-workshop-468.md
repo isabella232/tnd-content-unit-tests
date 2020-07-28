@@ -3,7 +3,7 @@ color: '#c193d1'
 date: 2019-09-26T13:57:34Z
 description: Etiam pretium iaculis justo.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["CSS"]
 title: Y-Solowarm workshop

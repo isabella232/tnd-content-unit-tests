@@ -3,7 +3,7 @@ color: '#5abea6'
 date: 2019-03-05T17:46:54Z
 description: Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","Eleventy"]
 title: Holdlamis workshop

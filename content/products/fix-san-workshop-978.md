@@ -3,7 +3,7 @@ color: '#27ed44'
 date: 2019-03-01T17:28:43Z
 description: Phasellus id sapien in sapien iaculis congue.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","Eleventy","HTML"]
 title: Fix San workshop

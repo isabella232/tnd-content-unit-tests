@@ -3,7 +3,7 @@ color: '#f7d0d7'
 date: 2019-01-02T22:41:59Z
 description: Cras pellentesque volutpat dui.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo"]
 title: Stronghold workshop

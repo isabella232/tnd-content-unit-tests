@@ -2,5 +2,7 @@ module:
   hugoVersion:
     min: "0.61.0"
   mounts:
-  - source: partials
-    target: layouts/partials/tnd-content-unit-tests
+  - source: content
+    target: content/tnd-content-unit-tests
+  - source: static
+    target: static/tnd-content-unit-tests

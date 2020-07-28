@@ -3,7 +3,7 @@ color: '#0cdcd3'
 date: 2019-04-25T14:53:18Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Hugo","Eleventy"]
 title: Bigtax workshop

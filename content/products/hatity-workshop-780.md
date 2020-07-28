@@ -3,7 +3,7 @@ color: '#ccf9cf'
 date: 2018-12-12T23:09:39Z
 description: Nulla facilisi. Cras non velit nec nisi vulputate nonummy.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","React"]
 title: Hatity workshop

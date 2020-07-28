@@ -3,7 +3,7 @@ color: '#9971f6'
 date: 2019-04-23T10:22:14Z
 description: Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","JAMStack"]
 title: Alpha workshop

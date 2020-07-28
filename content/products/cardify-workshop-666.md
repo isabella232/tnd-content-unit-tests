@@ -3,7 +3,7 @@ color: '#edf29b'
 date: 2018-11-24T15:26:59Z
 description: Vivamus tortor. Duis mattis egestas metus.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","HTML","React"]
 title: Cardify workshop

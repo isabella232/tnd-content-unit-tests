@@ -3,7 +3,7 @@ color: '#7e3def'
 date: 2018-12-27T14:41:22Z
 description: Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue","Eleventy","React"]
 title: Hatity workshop

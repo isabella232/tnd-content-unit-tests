@@ -3,7 +3,7 @@ color: '#4704ca'
 date: 2019-01-10T06:21:07Z
 description: Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular"]
 title: Lotlux workshop

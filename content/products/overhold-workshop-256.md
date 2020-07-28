@@ -3,7 +3,7 @@ color: '#6800dc'
 date: 2019-09-24T23:16:21Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","React","Angular"]
 title: Overhold workshop

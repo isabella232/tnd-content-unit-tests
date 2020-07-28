@@ -3,7 +3,7 @@ color: '#591d6e'
 date: 2018-10-11T15:49:23Z
 description: Phasellus in felis.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","Hugo","HTML"]
 title: Konklux workshop

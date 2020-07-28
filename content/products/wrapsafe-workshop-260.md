@@ -3,7 +3,7 @@ color: '#49ae89'
 date: 2019-07-15T20:16:07Z
 description: In quis justo. Maecenas rhoncus aliquam lacus.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","HTML","JS"]
 title: Wrapsafe workshop

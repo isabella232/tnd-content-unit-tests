@@ -3,7 +3,7 @@ color: '#12e78d'
 date: 2019-03-23T19:53:05Z
 description: Proin risus.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["CSS"]
 title: Tampflex workshop

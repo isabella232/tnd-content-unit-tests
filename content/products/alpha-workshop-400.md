@@ -3,7 +3,7 @@ color: '#b43459'
 date: 2019-07-01T11:56:50Z
 description: Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Alpha workshop

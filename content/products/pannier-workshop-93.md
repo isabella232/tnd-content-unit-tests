@@ -3,7 +3,7 @@ color: '#ad6d91'
 date: 2019-01-23T07:38:32Z
 description: Nulla ut erat id mauris vulputate elementum. Nullam varius.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy"]
 title: Pannier workshop

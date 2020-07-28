@@ -3,7 +3,7 @@ color: '#abd9d8'
 date: 2019-09-19T03:35:04Z
 description: Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","JS"]
 title: Zoolab workshop

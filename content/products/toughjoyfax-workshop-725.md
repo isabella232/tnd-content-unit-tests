@@ -3,7 +3,7 @@ color: '#d5dd97'
 date: 2019-04-13T15:26:12Z
 description: Duis bibendum. Morbi non quam nec dui luctus rutrum.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue","CSS"]
 title: Toughjoyfax workshop

@@ -3,7 +3,7 @@ color: '#f50cea'
 date: 2019-08-03T13:59:06Z
 description: Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","JS"]
 title: Job workshop

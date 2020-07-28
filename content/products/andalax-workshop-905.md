@@ -3,7 +3,7 @@ color: '#17d9ec'
 date: 2019-01-27T20:45:56Z
 description: Aenean lectus. Pellentesque eget nunc.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS","JAMStack","Vue"]
 title: Andalax workshop

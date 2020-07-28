@@ -3,7 +3,7 @@ color: '#f7cea9'
 date: 2018-12-26T03:36:14Z
 description: Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","HTML"]
 title: Fixflex workshop

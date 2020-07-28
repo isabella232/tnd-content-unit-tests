@@ -3,7 +3,7 @@ color: '#bbdb06'
 date: 2018-12-22T03:51:33Z
 description: Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML","Eleventy","Vue"]
 title: Keylex workshop

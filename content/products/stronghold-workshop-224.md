@@ -3,7 +3,7 @@ color: '#0ecbdb'
 date: 2019-09-15T12:06:55Z
 description: In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML"]
 title: Stronghold workshop

@@ -3,7 +3,7 @@ color: '#dfaefb'
 date: 2019-03-06T12:41:18Z
 description: Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","JAMStack"]
 title: Sub-Ex workshop

@@ -3,7 +3,7 @@ color: '#bb173b'
 date: 2019-03-06T15:36:32Z
 description: Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Hugo"]
 title: Matsoft workshop

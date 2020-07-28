@@ -3,7 +3,7 @@ color: '#96f972'
 date: 2019-04-16T07:24:48Z
 description: Mauris sit amet eros.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","Eleventy"]
 title: Vagram workshop

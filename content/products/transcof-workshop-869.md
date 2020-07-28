@@ -3,7 +3,7 @@ color: '#d2ee90'
 date: 2018-11-19T23:13:51Z
 description: Proin eu mi.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","React"]
 title: Transcof workshop

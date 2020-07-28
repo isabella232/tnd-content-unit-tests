@@ -3,7 +3,7 @@ color: '#2b7165'
 date: 2019-03-24T14:53:25Z
 description: Phasellus id sapien in sapien iaculis congue.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular","Eleventy","JS"]
 title: Stringtough workshop

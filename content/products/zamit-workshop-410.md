@@ -3,7 +3,7 @@ color: '#87f2b7'
 date: 2018-10-13T23:04:04Z
 description: Phasellus sit amet erat.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy","CSS","Angular"]
 title: Zamit workshop

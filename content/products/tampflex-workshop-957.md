@@ -3,7 +3,7 @@ color: '#e985e1'
 date: 2018-12-04T22:20:02Z
 description: Donec ut mauris eget massa tempor convallis.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React"]
 title: Tampflex workshop

@@ -3,7 +3,7 @@ color: '#0142d1'
 date: 2018-12-13T07:22:19Z
 description: Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy"]
 title: Transcof workshop

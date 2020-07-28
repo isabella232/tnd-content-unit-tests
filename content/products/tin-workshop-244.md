@@ -3,7 +3,7 @@ color: '#32af69'
 date: 2019-04-07T07:05:15Z
 description: Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML"]
 title: Tin workshop

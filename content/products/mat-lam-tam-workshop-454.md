@@ -3,7 +3,7 @@ color: '#cd4a1b'
 date: 2019-09-23T04:51:48Z
 description: Maecenas rhoncus aliquam lacus.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo"]
 title: Mat Lam Tam workshop

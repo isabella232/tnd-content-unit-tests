@@ -3,7 +3,7 @@ color: '#ee5270'
 date: 2019-04-23T09:40:27Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack","HTML","JS"]
 title: Latlux workshop

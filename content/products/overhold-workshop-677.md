@@ -3,7 +3,7 @@ color: '#b753b6'
 date: 2018-12-08T00:24:56Z
 description: Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular","CSS","React"]
 title: Overhold workshop

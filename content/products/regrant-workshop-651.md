@@ -3,7 +3,7 @@ color: '#42a0ac'
 date: 2018-12-14T22:19:27Z
 description: Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","Eleventy"]
 title: Regrant workshop

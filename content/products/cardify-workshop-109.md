@@ -3,7 +3,7 @@ color: '#b56b1a'
 date: 2019-05-24T07:27:37Z
 description: Aenean sit amet justo. Morbi ut odio.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","HTML","Vue"]
 title: Cardify workshop

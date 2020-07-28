@@ -3,7 +3,7 @@ color: '#7d7752'
 date: 2018-12-15T16:54:12Z
 description: Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React","HTML"]
 title: Holdlamis workshop

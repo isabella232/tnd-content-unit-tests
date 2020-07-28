@@ -3,7 +3,7 @@ color: '#af0aab'
 date: 2019-07-07T14:00:17Z
 description: Donec vitae nisi.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack","JS"]
 title: Span workshop

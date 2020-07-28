@@ -3,7 +3,7 @@ color: '#51cb20'
 date: 2019-08-10T08:24:32Z
 description: Quisque ut erat. Curabitur gravida nisi at nibh.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML","Hugo","JAMStack"]
 title: Duobam workshop

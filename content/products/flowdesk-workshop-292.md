@@ -3,7 +3,7 @@ color: '#5b0a0f'
 date: 2019-03-05T06:43:23Z
 description: Fusce consequat. Nulla nisl.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo"]
 title: Flowdesk workshop

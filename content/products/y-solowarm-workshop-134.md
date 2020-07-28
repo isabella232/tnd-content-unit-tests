@@ -3,7 +3,7 @@ color: '#4d6b1d'
 date: 2019-05-10T15:19:53Z
 description: Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam. Nam tristique tortor eu pede.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack","Angular","Eleventy"]
 title: Y-Solowarm workshop

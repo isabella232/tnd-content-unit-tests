@@ -3,7 +3,7 @@ color: '#1e55da'
 date: 2019-05-27T11:48:55Z
 description: Morbi vel lectus in quam fringilla rhoncus.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack"]
 title: Duobam workshop

@@ -3,7 +3,7 @@ color: '#56c1b1'
 date: 2019-07-18T00:13:48Z
 description: Nunc nisl.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Angular","Hugo"]
 title: Konklab workshop

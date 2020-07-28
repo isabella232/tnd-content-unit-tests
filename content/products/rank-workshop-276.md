@@ -3,7 +3,7 @@ color: '#422a03'
 date: 2019-08-01T11:53:33Z
 description: Praesent id massa id nisl venenatis lacinia.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Vue"]
 title: Rank workshop

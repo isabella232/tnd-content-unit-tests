@@ -3,7 +3,7 @@ color: '#f3b3f9'
 date: 2019-05-19T22:34:50Z
 description: In eleifend quam a odio. In hac habitasse platea dictumst.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular"]
 title: Stronghold workshop

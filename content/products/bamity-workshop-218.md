@@ -3,7 +3,7 @@ color: '#571182'
 date: 2019-07-13T12:07:21Z
 description: Phasellus sit amet erat.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["React"]
 title: Bamity workshop

@@ -3,7 +3,7 @@ color: '#9bb24c'
 date: 2019-02-04T14:13:40Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Vue","Eleventy","CSS"]
 title: Zamit workshop

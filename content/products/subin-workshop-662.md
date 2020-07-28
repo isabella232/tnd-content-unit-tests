@@ -3,7 +3,7 @@ color: '#65ab0d'
 date: 2019-10-07T11:24:44Z
 description: Nunc purus.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Subin workshop

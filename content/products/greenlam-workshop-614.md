@@ -3,7 +3,7 @@ color: '#188030'
 date: 2018-10-11T20:28:39Z
 description: Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","Vue"]
 title: Greenlam workshop

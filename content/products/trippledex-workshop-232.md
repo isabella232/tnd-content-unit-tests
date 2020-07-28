@@ -3,7 +3,7 @@ color: '#b13f76'
 date: 2018-11-15T20:26:30Z
 description: Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy"]
 title: Trippledex workshop

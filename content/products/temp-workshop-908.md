@@ -3,7 +3,7 @@ color: '#26e45b'
 date: 2018-12-07T12:26:24Z
 description: Maecenas rhoncus aliquam lacus.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","JS","Angular"]
 title: Temp workshop

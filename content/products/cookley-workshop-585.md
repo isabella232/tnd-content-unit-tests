@@ -3,7 +3,7 @@ color: '#b28edb'
 date: 2019-07-12T02:55:02Z
 description: Maecenas ut massa quis augue luctus tincidunt.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Cookley workshop

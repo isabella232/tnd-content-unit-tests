@@ -3,7 +3,7 @@ color: '#fccfd7'
 date: 2019-08-17T02:16:45Z
 description: Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy","JAMStack","CSS"]
 title: Opela workshop

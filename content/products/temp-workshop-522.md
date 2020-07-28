@@ -3,7 +3,7 @@ color: '#c61456'
 date: 2019-06-16T03:44:50Z
 description: Etiam faucibus cursus urna. Ut tellus.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","Angular","Vue"]
 title: Temp workshop

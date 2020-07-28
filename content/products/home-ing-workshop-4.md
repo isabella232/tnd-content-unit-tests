@@ -3,7 +3,7 @@ color: '#03dca8'
 date: 2019-08-12T14:45:31Z
 description: In congue. Etiam justo.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","HTML"]
 title: Home Ing workshop

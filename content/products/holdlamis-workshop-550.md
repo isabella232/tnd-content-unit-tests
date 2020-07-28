@@ -3,7 +3,7 @@ color: '#d6b2a8'
 date: 2019-01-01T22:25:38Z
 description: Aenean lectus.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS"]
 title: Holdlamis workshop

@@ -3,7 +3,7 @@ color: '#913d91'
 date: 2019-03-20T10:52:20Z
 description: Donec vitae nisi.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","Angular","Eleventy"]
 title: Cardify workshop

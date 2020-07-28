@@ -3,7 +3,7 @@ color: '#586e5c'
 date: 2019-01-23T21:08:47Z
 description: Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue"]
 title: Prodder workshop

@@ -3,7 +3,7 @@ color: '#49afaf'
 date: 2018-10-24T12:09:28Z
 description: Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","Vue","HTML"]
 title: Keylex workshop

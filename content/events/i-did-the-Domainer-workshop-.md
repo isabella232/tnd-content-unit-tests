@@ -1,6 +1,6 @@
 ---
 date: 2019-07-16T14:57:16Z
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructor: "Sarette Greep"
 technologies: ["Angular"]
 title: I did the Domainer workshop!

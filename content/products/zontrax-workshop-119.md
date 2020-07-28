@@ -3,7 +3,7 @@ color: '#df7ced'
 date: 2019-07-08T09:51:26Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","CSS"]
 title: Zontrax workshop

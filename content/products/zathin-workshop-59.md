@@ -3,7 +3,7 @@ color: '#1da62c'
 date: 2018-10-12T10:50:36Z
 description: Morbi porttitor lorem id ligula.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","JS","CSS"]
 title: Zathin workshop

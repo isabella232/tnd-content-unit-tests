@@ -3,7 +3,7 @@ color: '#accc30'
 date: 2019-07-02T06:04:00Z
 description: In hac habitasse platea dictumst.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue"]
 title: Transcof workshop

@@ -3,7 +3,7 @@ color: '#34d95c'
 date: 2019-09-18T23:17:51Z
 description: Maecenas rhoncus aliquam lacus.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS"]
 title: Tempsoft workshop

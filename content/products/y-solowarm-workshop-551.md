@@ -3,7 +3,7 @@ color: '#fc3bb3'
 date: 2019-05-15T05:02:06Z
 description: Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","Vue","React"]
 title: Y-Solowarm workshop

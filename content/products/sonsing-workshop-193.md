@@ -3,7 +3,7 @@ color: '#d73855'
 date: 2019-09-02T00:33:00Z
 description: Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack","Vue"]
 title: Sonsing workshop

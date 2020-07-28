@@ -3,7 +3,7 @@ color: '#a7dd1e'
 date: 2019-03-05T05:44:26Z
 description: Nunc rhoncus dui vel sem. Sed sagittis.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JS","Vue"]
 title: Treeflex workshop

@@ -3,7 +3,7 @@ color: '#1125a2'
 date: 2018-12-27T09:54:47Z
 description: Fusce consequat.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Eleventy","Angular"]
 title: Job workshop

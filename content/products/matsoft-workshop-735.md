@@ -3,7 +3,7 @@ color: '#39b21c'
 date: 2019-05-19T20:26:39Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS"]
 title: Matsoft workshop

@@ -3,7 +3,7 @@ color: '#f080c1'
 date: 2019-08-26T22:59:47Z
 description: Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JS"]
 title: Stim workshop

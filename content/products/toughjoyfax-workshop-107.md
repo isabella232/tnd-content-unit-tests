@@ -3,7 +3,7 @@ color: '#30e5c5'
 date: 2018-12-26T01:28:05Z
 description: Nulla facilisi.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular"]
 title: Toughjoyfax workshop

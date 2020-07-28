@@ -3,7 +3,7 @@ color: '#731d50'
 date: 2019-06-02T17:38:04Z
 description: Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML"]
 title: Temp workshop

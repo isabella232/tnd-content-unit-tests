@@ -3,7 +3,7 @@ color: '#1a5a18'
 date: 2019-09-15T13:34:22Z
 description: Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS"]
 title: Flexidy workshop

@@ -3,7 +3,7 @@ color: '#1500f2'
 date: 2019-10-04T18:42:06Z
 description: In quis justo. Maecenas rhoncus aliquam lacus.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","HTML","Eleventy"]
 title: Stronghold workshop

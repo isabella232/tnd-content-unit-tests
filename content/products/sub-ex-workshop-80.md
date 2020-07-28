@@ -3,7 +3,7 @@ color: '#21071a'
 date: 2018-10-13T22:15:02Z
 description: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","JS","HTML"]
 title: Sub-Ex workshop

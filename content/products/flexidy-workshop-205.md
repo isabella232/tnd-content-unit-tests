@@ -3,7 +3,7 @@ color: '#e2aa34'
 date: 2018-12-23T07:10:40Z
 description: Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue"]
 title: Flexidy workshop

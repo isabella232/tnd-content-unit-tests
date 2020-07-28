@@ -3,7 +3,7 @@ color: '#ab002a'
 date: 2019-08-22T17:59:48Z
 description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack","CSS"]
 title: Rank workshop

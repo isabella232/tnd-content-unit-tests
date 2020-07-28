@@ -3,7 +3,7 @@ color: '#85b52b'
 date: 2019-04-28T15:01:54Z
 description: Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JS","Hugo","CSS"]
 title: Kanlam workshop

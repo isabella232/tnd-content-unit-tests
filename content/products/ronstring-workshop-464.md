@@ -3,7 +3,7 @@ color: '#6b5431'
 date: 2018-11-02T19:28:39Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS","Angular","React"]
 title: Ronstring workshop

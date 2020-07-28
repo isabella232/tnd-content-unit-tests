@@ -3,7 +3,7 @@ color: '#d57745'
 date: 2018-11-01T04:49:39Z
 description: Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS"]
 title: Alpha workshop

@@ -3,7 +3,7 @@ color: '#6df9c2'
 date: 2019-08-01T18:19:08Z
 description: Suspendisse potenti.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","React"]
 title: Holdlamis workshop

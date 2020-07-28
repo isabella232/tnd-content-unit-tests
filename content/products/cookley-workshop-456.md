@@ -3,7 +3,7 @@ color: '#db0565'
 date: 2019-09-10T13:58:26Z
 description: Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","Vue","Angular"]
 title: Cookley workshop

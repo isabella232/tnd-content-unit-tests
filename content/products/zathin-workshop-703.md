@@ -3,7 +3,7 @@ color: '#884e21'
 date: 2019-03-15T08:46:40Z
 description: Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS"]
 title: Zathin workshop

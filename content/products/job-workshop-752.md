@@ -3,7 +3,7 @@ color: '#9eb25a'
 date: 2019-07-28T00:20:14Z
 description: Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack"]
 title: Job workshop

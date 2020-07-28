@@ -3,7 +3,7 @@ color: '#573474'
 date: 2019-03-10T03:45:52Z
 description: Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo","CSS"]
 title: Overhold workshop

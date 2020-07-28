@@ -3,7 +3,7 @@ color: '#67f82d'
 date: 2019-06-12T23:33:07Z
 description: Praesent blandit.
 duration: 4
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Angular","JAMStack","Vue"]
 title: Zaam-Dox workshop

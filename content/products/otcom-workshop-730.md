@@ -3,7 +3,7 @@ color: '#8cc7c4'
 date: 2019-09-13T20:26:51Z
 description: Vivamus in felis eu sapien cursus vestibulum.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML","Angular"]
 title: Otcom workshop

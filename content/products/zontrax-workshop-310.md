@@ -3,7 +3,7 @@ color: '#b344ac'
 date: 2019-06-19T04:42:30Z
 description: Fusce consequat.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","Eleventy","Hugo"]
 title: Zontrax workshop

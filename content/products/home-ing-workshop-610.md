@@ -3,7 +3,7 @@ color: '#671469'
 date: 2018-10-24T20:50:26Z
 description: Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JAMStack","Angular"]
 title: Home Ing workshop

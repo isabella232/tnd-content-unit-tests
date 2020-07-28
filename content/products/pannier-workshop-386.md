@@ -3,7 +3,7 @@ color: '#33f702'
 date: 2019-02-22T19:12:58Z
 description: Nunc nisl.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Eleventy"]
 title: Pannier workshop

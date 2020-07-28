@@ -3,7 +3,7 @@ color: '#9b24a9'
 date: 2019-04-09T10:07:04Z
 description: Suspendisse accumsan tortor quis turpis.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS"]
 title: Stringtough workshop

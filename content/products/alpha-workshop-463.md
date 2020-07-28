@@ -3,7 +3,7 @@ color: '#d5b3d2'
 date: 2019-03-08T10:08:39Z
 description: Fusce consequat.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Eleventy","CSS"]
 title: Alpha workshop

@@ -3,7 +3,7 @@ color: '#9ec112'
 date: 2019-08-02T02:15:08Z
 description: Donec semper sapien a libero.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React","Angular","HTML"]
 title: Zoolab workshop

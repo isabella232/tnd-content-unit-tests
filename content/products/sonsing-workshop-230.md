@@ -3,7 +3,7 @@ color: '#c6c1b6'
 date: 2019-06-12T14:46:53Z
 description: Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML","Vue","CSS"]
 title: Sonsing workshop

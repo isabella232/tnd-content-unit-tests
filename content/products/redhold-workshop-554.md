@@ -3,7 +3,7 @@ color: '#29b5ac'
 date: 2018-10-20T21:14:40Z
 description: Duis at velit eu est congue elementum. In hac habitasse platea dictumst.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React","Eleventy","JAMStack"]
 title: Redhold workshop

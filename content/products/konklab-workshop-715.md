@@ -3,7 +3,7 @@ color: '#5d6a5a'
 date: 2019-05-28T19:17:12Z
 description: Vestibulum sed magna at nunc commodo placerat.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML"]
 title: Konklab workshop

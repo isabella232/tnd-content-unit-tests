@@ -3,7 +3,7 @@ color: '#41e524'
 date: 2019-05-12T14:33:28Z
 description: Sed ante. Vivamus tortor.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Eleventy","Vue"]
 title: Sonsing workshop

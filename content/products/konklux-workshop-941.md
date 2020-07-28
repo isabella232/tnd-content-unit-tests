@@ -3,7 +3,7 @@ color: '#48061e'
 date: 2019-03-29T19:33:29Z
 description: In eleifend quam a odio.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy","HTML"]
 title: Konklux workshop

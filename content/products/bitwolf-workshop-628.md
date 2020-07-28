@@ -3,7 +3,7 @@ color: '#4a3e67'
 date: 2019-04-19T08:08:59Z
 description: In est risus, auctor sed, tristique in, tempus sit amet, sem.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular"]
 title: Bitwolf workshop

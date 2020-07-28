@@ -3,7 +3,7 @@ color: '#39ebc8'
 date: 2019-01-27T05:18:20Z
 description: Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Eleventy","Hugo"]
 title: Transcof workshop

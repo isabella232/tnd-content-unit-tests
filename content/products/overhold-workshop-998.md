@@ -3,7 +3,7 @@ color: '#4812f0'
 date: 2018-10-31T16:45:31Z
 description: Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular"]
 title: Overhold workshop

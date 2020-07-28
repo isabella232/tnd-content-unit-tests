@@ -3,7 +3,7 @@ color: '#6a1246'
 date: 2019-05-18T10:17:50Z
 description: Nulla mollis molestie lorem.
 duration: 6
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","HTML","Hugo"]
 title: Wrapsafe workshop

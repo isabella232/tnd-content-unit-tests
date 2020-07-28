@@ -3,7 +3,7 @@ color: '#621200'
 date: 2019-02-07T12:22:26Z
 description: In congue.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Hugo","Eleventy","React"]
 title: Sonair workshop

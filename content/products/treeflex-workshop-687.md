@@ -3,7 +3,7 @@ color: '#9215c9'
 date: 2019-08-24T13:30:42Z
 description: Aenean fermentum.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["HTML","Angular","React"]
 title: Treeflex workshop

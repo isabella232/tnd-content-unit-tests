@@ -3,7 +3,7 @@ color: '#032a09'
 date: 2019-07-12T15:34:20Z
 description: Aenean lectus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack","CSS"]
 title: Toughjoyfax workshop

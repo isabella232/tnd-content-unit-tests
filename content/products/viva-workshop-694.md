@@ -3,7 +3,7 @@ color: '#c204d3'
 date: 2019-04-12T23:39:55Z
 description: Nunc nisl.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Eleventy","React","CSS"]
 title: Viva workshop

@@ -3,7 +3,7 @@ color: '#8cc291'
 date: 2019-09-09T03:23:33Z
 description: Etiam faucibus cursus urna.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo"]
 title: Fixflex workshop

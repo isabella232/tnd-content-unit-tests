@@ -3,7 +3,7 @@ color: '#1df9d2'
 date: 2019-09-18T21:24:41Z
 description: Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","JS"]
 title: Daltfresh workshop

@@ -3,7 +3,7 @@ color: '#728aed'
 date: 2019-07-12T20:14:28Z
 description: Nullam molestie nibh in lectus. Pellentesque at nulla.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Angular","Eleventy"]
 title: Fixflex workshop

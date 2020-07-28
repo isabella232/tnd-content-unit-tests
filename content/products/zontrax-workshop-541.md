@@ -3,7 +3,7 @@ color: '#5ff1bf'
 date: 2019-07-31T06:49:42Z
 description: Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","Angular"]
 title: Zontrax workshop

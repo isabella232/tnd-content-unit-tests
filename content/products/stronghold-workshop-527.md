@@ -3,7 +3,7 @@ color: '#0bb5da'
 date: 2019-04-01T18:26:42Z
 description: Vivamus in felis eu sapien cursus vestibulum.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Eleventy","CSS"]
 title: Stronghold workshop

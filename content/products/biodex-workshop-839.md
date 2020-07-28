@@ -3,7 +3,7 @@ color: '#2d225e'
 date: 2018-11-04T22:07:28Z
 description: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS","CSS","Hugo"]
 title: Biodex workshop

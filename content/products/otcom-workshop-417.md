@@ -3,7 +3,7 @@ color: '#1a2edf'
 date: 2019-01-29T05:43:11Z
 description: Vivamus vel nulla eget eros elementum pellentesque.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","JS"]
 title: Otcom workshop

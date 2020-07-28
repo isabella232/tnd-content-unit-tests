@@ -3,7 +3,7 @@ color: '#990095'
 date: 2019-04-03T13:47:35Z
 description: Ut tellus. Nulla ut erat id mauris vulputate elementum.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML"]
 title: Voltsillam workshop

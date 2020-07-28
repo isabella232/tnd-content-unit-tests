@@ -3,7 +3,7 @@ color: '#6a4243'
 date: 2018-12-22T13:46:12Z
 description: Proin risus. Praesent lectus.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack","CSS","Eleventy"]
 title: Biodex workshop

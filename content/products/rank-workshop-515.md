@@ -3,7 +3,7 @@ color: '#73540f'
 date: 2019-05-02T12:11:08Z
 description: Cras in purus eu magna vulputate luctus.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","Eleventy","Vue"]
 title: Rank workshop

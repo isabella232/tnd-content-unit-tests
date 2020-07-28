@@ -3,7 +3,7 @@ color: '#22370c'
 date: 2018-12-17T17:12:01Z
 description: Etiam justo. Etiam pretium iaculis justo.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Angular","HTML"]
 title: Regrant workshop

@@ -3,7 +3,7 @@ color: '#f7c52e'
 date: 2018-12-14T17:08:30Z
 description: Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JS"]
 title: Fixflex workshop

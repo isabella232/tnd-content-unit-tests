@@ -3,7 +3,7 @@ color: '#6f992b'
 date: 2018-11-19T16:17:37Z
 description: Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo","Eleventy"]
 title: Kanlam workshop

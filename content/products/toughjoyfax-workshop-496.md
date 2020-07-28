@@ -3,7 +3,7 @@ color: '#b15d8c'
 date: 2019-01-28T21:05:54Z
 description: Aliquam erat volutpat.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["React","Eleventy"]
 title: Toughjoyfax workshop

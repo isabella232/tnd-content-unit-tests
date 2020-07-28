@@ -3,7 +3,7 @@ color: '#c3545f'
 date: 2019-04-14T17:25:53Z
 description: Phasellus sit amet erat.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JS","Vue"]
 title: Pannier workshop

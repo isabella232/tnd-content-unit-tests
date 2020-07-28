@@ -3,7 +3,7 @@ color: '#8f5e51'
 date: 2018-10-20T23:13:08Z
 description: Suspendisse potenti. Nullam porttitor lacus at turpis.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular"]
 title: Ventosanzap workshop

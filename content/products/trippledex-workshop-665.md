@@ -3,7 +3,7 @@ color: '#c5796a'
 date: 2018-11-06T19:54:34Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","JAMStack"]
 title: Trippledex workshop

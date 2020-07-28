@@ -3,7 +3,7 @@ color: '#6fd966'
 date: 2018-11-07T11:26:07Z
 description: Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.
 duration: 4
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React"]
 title: Holdlamis workshop

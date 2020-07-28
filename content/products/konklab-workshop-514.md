@@ -3,7 +3,7 @@ color: '#ea5c80'
 date: 2019-06-24T11:28:05Z
 description: Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
 duration: 5
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Konklab workshop

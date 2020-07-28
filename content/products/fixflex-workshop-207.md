@@ -3,7 +3,7 @@ color: '#f15f8b'
 date: 2019-07-11T07:10:41Z
 description: Nulla suscipit ligula in lacus.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy"]
 title: Fixflex workshop

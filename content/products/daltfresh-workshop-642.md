@@ -3,7 +3,7 @@ color: '#9e67ed'
 date: 2019-05-21T13:49:51Z
 description: Proin leo odio, porttitor id, consequat in, consequat ut, nulla.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy"]
 title: Daltfresh workshop

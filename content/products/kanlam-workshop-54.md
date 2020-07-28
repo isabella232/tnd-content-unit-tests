@@ -3,7 +3,7 @@ color: '#735f1f'
 date: 2019-08-18T14:41:53Z
 description: Nam dui.
 duration: 2
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular"]
 title: Kanlam workshop

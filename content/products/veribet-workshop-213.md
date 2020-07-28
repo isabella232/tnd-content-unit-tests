@@ -3,7 +3,7 @@ color: '#244a81'
 date: 2019-09-02T13:51:57Z
 description: Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["HTML","Hugo","Angular"]
 title: Veribet workshop

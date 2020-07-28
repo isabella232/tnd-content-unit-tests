@@ -3,7 +3,7 @@ color: '#08efbe'
 date: 2018-12-05T00:36:15Z
 description: Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["CSS","JS","Hugo"]
 title: Opela workshop

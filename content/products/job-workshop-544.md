@@ -3,7 +3,7 @@ color: '#c6892b'
 date: 2019-05-08T21:32:55Z
 description: Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["React","JS"]
 title: Job workshop

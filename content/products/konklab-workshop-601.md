@@ -3,7 +3,7 @@ color: '#b442c5'
 date: 2018-10-23T19:58:33Z
 description: Phasellus in felis. Donec semper sapien a libero.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML","JAMStack","Angular"]
 title: Konklab workshop

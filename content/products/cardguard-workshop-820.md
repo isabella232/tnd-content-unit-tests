@@ -3,7 +3,7 @@ color: '#bbd3c6'
 date: 2019-06-04T11:34:13Z
 description: In eleifend quam a odio.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS"]
 title: Cardguard workshop

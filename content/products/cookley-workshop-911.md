@@ -3,7 +3,7 @@ color: '#2d694e'
 date: 2019-03-06T05:24:44Z
 description: Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Vue","JS"]
 title: Cookley workshop

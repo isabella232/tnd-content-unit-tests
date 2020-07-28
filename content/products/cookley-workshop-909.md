@@ -3,7 +3,7 @@ color: '#150faa'
 date: 2019-08-28T17:04:43Z
 description: Nulla tellus. In sagittis dui vel nisl.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Angular"]
 title: Cookley workshop

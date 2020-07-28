@@ -3,7 +3,7 @@ color: '#7b7849'
 date: 2019-08-23T22:05:14Z
 description: Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","JAMStack"]
 title: Domainer workshop

@@ -3,7 +3,7 @@ color: '#345e2a'
 date: 2019-02-02T10:15:35Z
 description: Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Vue","JAMStack"]
 title: Duobam workshop

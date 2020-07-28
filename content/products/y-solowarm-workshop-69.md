@@ -3,7 +3,7 @@ color: '#c7f592'
 date: 2019-01-20T03:36:20Z
 description: In eleifend quam a odio.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular","Vue"]
 title: Y-Solowarm workshop

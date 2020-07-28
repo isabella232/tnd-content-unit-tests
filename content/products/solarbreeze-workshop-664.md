@@ -3,7 +3,7 @@ color: '#7e0f3c'
 date: 2018-12-01T10:52:09Z
 description: Vivamus vestibulum sagittis sapien.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","Angular"]
 title: Solarbreeze workshop

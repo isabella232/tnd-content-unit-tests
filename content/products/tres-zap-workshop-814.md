@@ -3,7 +3,7 @@ color: '#741a86'
 date: 2019-05-07T23:59:31Z
 description: Nulla ac enim.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["CSS","JAMStack","Angular"]
 title: Tres-Zap workshop

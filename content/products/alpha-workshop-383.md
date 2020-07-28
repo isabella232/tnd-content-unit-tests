@@ -3,7 +3,7 @@ color: '#7ac52f'
 date: 2019-05-11T16:29:26Z
 description: Quisque porta volutpat erat.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML"]
 title: Alpha workshop

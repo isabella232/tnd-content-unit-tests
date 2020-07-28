@@ -3,7 +3,7 @@ color: '#acfe2c'
 date: 2019-07-06T16:27:13Z
 description: Proin eu mi.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack"]
 title: Wrapsafe workshop

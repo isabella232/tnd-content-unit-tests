@@ -3,7 +3,7 @@ color: '#018cd3'
 date: 2019-06-13T20:26:38Z
 description: Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["JAMStack","Vue","Eleventy"]
 title: Mat Lam Tam workshop

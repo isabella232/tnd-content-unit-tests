@@ -3,7 +3,7 @@ color: '#21a2e9'
 date: 2018-10-17T06:19:07Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","JS"]
 title: Prodder workshop

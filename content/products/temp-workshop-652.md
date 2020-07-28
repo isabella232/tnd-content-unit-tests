@@ -3,7 +3,7 @@ color: '#82246a'
 date: 2019-08-23T03:50:28Z
 description: Fusce consequat. Nulla nisl.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS","Hugo"]
 title: Temp workshop

@@ -3,7 +3,7 @@ color: '#257f81'
 date: 2019-07-13T15:59:33Z
 description: Nulla justo. Aliquam quis turpis eget elit sodales scelerisque.
 duration: 7
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["React","Angular","Eleventy"]
 title: Tempsoft workshop

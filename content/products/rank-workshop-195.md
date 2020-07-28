@@ -3,7 +3,7 @@ color: '#50ba9d'
 date: 2018-12-22T22:55:38Z
 description: In sagittis dui vel nisl.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular","CSS"]
 title: Rank workshop

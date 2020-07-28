@@ -3,7 +3,7 @@ color: '#c62036'
 date: 2019-04-21T22:01:14Z
 description: Integer ac leo.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","JAMStack"]
 title: Otcom workshop

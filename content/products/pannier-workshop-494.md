@@ -3,7 +3,7 @@ color: '#449c31'
 date: 2018-10-11T13:19:46Z
 description: Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","JAMStack"]
 title: Pannier workshop

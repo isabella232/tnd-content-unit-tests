@@ -3,7 +3,7 @@ color: '#3a7432'
 date: 2019-02-15T01:46:07Z
 description: Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS","CSS"]
 title: Opela workshop

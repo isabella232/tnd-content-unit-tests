@@ -3,7 +3,7 @@ color: '#b1ac7d'
 date: 2019-02-17T01:40:15Z
 description: Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Hugo","Vue","Eleventy"]
 title: Tres-Zap workshop

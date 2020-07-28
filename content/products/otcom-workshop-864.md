@@ -3,7 +3,7 @@ color: '#69b4a2'
 date: 2019-08-20T09:11:21Z
 description: Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML"]
 title: Otcom workshop

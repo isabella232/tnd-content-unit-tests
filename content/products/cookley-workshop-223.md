@@ -3,7 +3,7 @@ color: '#5174c4'
 date: 2019-09-18T04:26:53Z
 description: Pellentesque ultrices mattis odio.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["CSS"]
 title: Cookley workshop

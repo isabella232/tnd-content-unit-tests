@@ -3,7 +3,7 @@ color: '#3d2567'
 date: 2019-07-25T22:47:26Z
 description: Fusce consequat. Nulla nisl.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React"]
 title: Veribet workshop

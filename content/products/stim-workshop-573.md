@@ -3,7 +3,7 @@ color: '#29b135'
 date: 2019-04-22T04:08:58Z
 description: Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo","Vue"]
 title: Stim workshop

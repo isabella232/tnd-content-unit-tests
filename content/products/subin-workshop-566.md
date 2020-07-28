@@ -3,7 +3,7 @@ color: '#e176f9'
 date: 2019-03-28T22:10:03Z
 description: Nulla tellus. In sagittis dui vel nisl.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Hugo"]
 title: Subin workshop

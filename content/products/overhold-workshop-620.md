@@ -3,7 +3,7 @@ color: '#8a25cd'
 date: 2019-08-29T15:02:05Z
 description: Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["JAMStack"]
 title: Overhold workshop

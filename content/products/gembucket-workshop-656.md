@@ -3,7 +3,7 @@ color: '#8058c1'
 date: 2019-09-09T04:32:40Z
 description: Integer ac leo.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","JAMStack","Hugo"]
 title: Gembucket workshop

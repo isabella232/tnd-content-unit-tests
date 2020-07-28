@@ -3,7 +3,7 @@ color: '#0ffad4'
 date: 2019-06-27T21:29:37Z
 description: Curabitur at ipsum ac tellus semper interdum.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML"]
 title: Bitwolf workshop

@@ -3,7 +3,7 @@ color: '#89ecb4'
 date: 2019-04-25T03:22:13Z
 description: Duis mattis egestas metus.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue"]
 title: Duobam workshop

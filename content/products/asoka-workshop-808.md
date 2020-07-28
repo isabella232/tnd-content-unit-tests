@@ -3,7 +3,7 @@ color: '#e8fe0c'
 date: 2019-04-13T15:21:12Z
 description: Etiam pretium iaculis justo. In hac habitasse platea dictumst.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Hugo","HTML"]
 title: Asoka workshop

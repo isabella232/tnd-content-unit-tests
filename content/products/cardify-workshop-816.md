@@ -3,7 +3,7 @@ color: '#0ad86e'
 date: 2019-10-09T22:00:18Z
 description: Vivamus vel nulla eget eros elementum pellentesque.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Hugo"]
 title: Cardify workshop

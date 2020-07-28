@@ -3,7 +3,7 @@ color: '#a23bb6'
 date: 2019-02-20T03:29:31Z
 description: Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.
 duration: 6
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML","Eleventy","Angular"]
 title: Cookley workshop

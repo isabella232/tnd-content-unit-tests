@@ -3,7 +3,7 @@ color: '#51b52d'
 date: 2019-03-15T22:52:13Z
 description: Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Sarette Greep"]
 technologies: ["Angular"]
 title: Wrapsafe workshop

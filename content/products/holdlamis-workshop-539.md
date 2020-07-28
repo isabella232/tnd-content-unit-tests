@@ -3,7 +3,7 @@ color: '#649d34'
 date: 2019-07-07T04:59:31Z
 description: Curabitur at ipsum ac tellus semper interdum.
 duration: 3
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","Eleventy","HTML"]
 title: Holdlamis workshop

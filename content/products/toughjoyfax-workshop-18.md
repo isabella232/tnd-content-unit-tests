@@ -3,7 +3,7 @@ color: '#38ba02'
 date: 2018-12-20T00:15:10Z
 description: Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JAMStack","HTML"]
 title: Toughjoyfax workshop

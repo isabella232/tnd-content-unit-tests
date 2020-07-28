@@ -3,7 +3,7 @@ color: '#2c1b46'
 date: 2019-08-19T10:52:26Z
 description: Morbi a ipsum. Integer a nibh.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy","Hugo","React"]
 title: Sub-Ex workshop

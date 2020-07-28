@@ -3,7 +3,7 @@ color: '#ea3cbb'
 date: 2019-08-25T01:38:02Z
 description: Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.
 duration: 8
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML","Angular"]
 title: Hatity workshop

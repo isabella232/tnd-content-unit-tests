@@ -3,7 +3,7 @@ color: '#e6880c'
 date: 2019-07-10T19:48:11Z
 description: Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["HTML","CSS","JAMStack"]
 title: Home Ing workshop

@@ -3,7 +3,7 @@ color: '#3f113b'
 date: 2019-05-31T09:43:27Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["CSS","Eleventy","JAMStack"]
 title: Stringtough workshop

@@ -3,7 +3,7 @@ color: '#99cc10'
 date: 2018-12-30T16:38:52Z
 description: Duis bibendum.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Evy Deabill"]
 technologies: ["Hugo","JS","Eleventy"]
 title: Sub-Ex workshop

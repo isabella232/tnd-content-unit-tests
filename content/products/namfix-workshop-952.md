@@ -3,7 +3,7 @@ color: '#e28092'
 date: 2019-02-25T03:50:45Z
 description: Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JAMStack"]
 title: Namfix workshop

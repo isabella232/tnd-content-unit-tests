@@ -3,7 +3,7 @@ color: '#70bed5'
 date: 2018-12-15T04:52:15Z
 description: Mauris sit amet eros.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["HTML","Hugo"]
 title: Span workshop

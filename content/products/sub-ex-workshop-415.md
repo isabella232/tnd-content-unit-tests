@@ -3,7 +3,7 @@ color: '#e9ad31'
 date: 2018-10-18T12:28:06Z
 description: Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 duration: 2
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["HTML"]
 title: Sub-Ex workshop

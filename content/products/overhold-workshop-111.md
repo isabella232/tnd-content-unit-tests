@@ -3,7 +3,7 @@ color: '#8519f1'
 date: 2019-04-03T11:55:51Z
 description: Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Evy Deabill"]
 technologies: ["JS","JAMStack"]
 title: Overhold workshop

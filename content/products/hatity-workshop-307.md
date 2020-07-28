@@ -3,7 +3,7 @@ color: '#62e9f3'
 date: 2019-01-17T17:00:16Z
 description: Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Angular","JAMStack","React"]
 title: Hatity workshop

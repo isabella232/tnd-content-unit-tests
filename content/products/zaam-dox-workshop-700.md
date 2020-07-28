@@ -3,7 +3,7 @@ color: '#751ca4'
 date: 2019-03-08T10:23:31Z
 description: Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Vue"]
 title: Zaam-Dox workshop

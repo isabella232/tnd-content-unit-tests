@@ -3,7 +3,7 @@ color: '#01fadf'
 date: 2019-05-10T00:40:59Z
 description: Duis aliquam convallis nunc.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Vue","JAMStack","Hugo"]
 title: Tampflex workshop

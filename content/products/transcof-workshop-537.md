@@ -3,7 +3,7 @@ color: '#123bc5'
 date: 2019-08-14T10:30:08Z
 description: Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["JS"]
 title: Transcof workshop

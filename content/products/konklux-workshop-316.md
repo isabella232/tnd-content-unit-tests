@@ -3,7 +3,7 @@ color: '#78388a'
 date: 2019-08-23T13:14:56Z
 description: Ut at dolor quis odio consequat varius.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Angular"]
 title: Konklux workshop

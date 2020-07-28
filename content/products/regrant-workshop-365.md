@@ -3,7 +3,7 @@ color: '#56e4f1'
 date: 2019-07-25T08:39:24Z
 description: Cras pellentesque volutpat dui.
 duration: 2
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React","JAMStack"]
 title: Regrant workshop

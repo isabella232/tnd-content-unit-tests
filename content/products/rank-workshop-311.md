@@ -3,7 +3,7 @@ color: '#dc5b9b'
 date: 2019-06-26T07:03:59Z
 description: Pellentesque ultrices mattis odio. Donec vitae nisi.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","CSS"]
 title: Rank workshop

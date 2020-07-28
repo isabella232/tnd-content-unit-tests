@@ -3,7 +3,7 @@ color: '#13cde1'
 date: 2019-05-09T09:44:44Z
 description: Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 duration: 8
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Hugo"]
 title: Toughjoyfax workshop

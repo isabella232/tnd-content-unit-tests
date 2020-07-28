@@ -3,7 +3,7 @@ color: '#1a8b5d'
 date: 2019-01-12T18:42:39Z
 description: Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.
 duration: 3
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JAMStack","JS","HTML"]
 title: Bigtax workshop

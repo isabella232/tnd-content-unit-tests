@@ -3,7 +3,7 @@ color: '#9763b9'
 date: 2019-03-24T01:32:08Z
 description: Donec ut mauris eget massa tempor convallis.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Angular","JS"]
 title: Gembucket workshop

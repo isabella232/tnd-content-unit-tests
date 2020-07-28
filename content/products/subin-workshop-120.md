@@ -3,7 +3,7 @@ color: '#d5d967'
 date: 2019-05-27T18:24:18Z
 description: Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Sarette Greep"]
 technologies: ["JAMStack"]
 title: Subin workshop

@@ -3,7 +3,7 @@ color: '#b057ac'
 date: 2018-11-29T00:36:03Z
 description: Aliquam sit amet diam in magna bibendum imperdiet.
 duration: 8
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Deanna Greim"]
 technologies: ["CSS","Angular","HTML"]
 title: Y-find workshop

@@ -3,7 +3,7 @@ color: '#da0871'
 date: 2018-10-18T13:37:03Z
 description: Vestibulum sed magna at nunc commodo placerat. Praesent blandit.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["CSS","JS","HTML"]
 title: It workshop

@@ -3,7 +3,7 @@ color: '#e37e16'
 date: 2019-02-11T07:07:36Z
 description: Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus.
 duration: 7
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Vue","CSS"]
 title: Zamit workshop

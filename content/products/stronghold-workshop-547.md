@@ -3,7 +3,7 @@ color: '#c056b3'
 date: 2019-07-22T14:05:46Z
 description: Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","Vue","JS"]
 title: Stronghold workshop

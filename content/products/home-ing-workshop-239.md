@@ -3,7 +3,7 @@ color: '#e5b87f'
 date: 2019-06-06T23:44:33Z
 description: Maecenas pulvinar lobortis est. Phasellus sit amet erat.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Angular","JAMStack"]
 title: Home Ing workshop

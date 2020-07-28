@@ -3,7 +3,7 @@ color: '#b75688'
 date: 2019-06-23T07:15:53Z
 description: Pellentesque viverra pede ac diam.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS","CSS","Angular"]
 title: Zathin workshop

@@ -3,7 +3,7 @@ color: '#e86985'
 date: 2019-08-07T07:15:12Z
 description: Fusce consequat.
 duration: 3
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["HTML","Eleventy"]
 title: Pannier workshop

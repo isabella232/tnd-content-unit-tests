@@ -3,7 +3,7 @@ color: '#895d5c'
 date: 2019-07-10T10:58:10Z
 description: Nulla facilisi.
 duration: 6
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Evy Deabill"]
 technologies: ["CSS"]
 title: Tampflex workshop

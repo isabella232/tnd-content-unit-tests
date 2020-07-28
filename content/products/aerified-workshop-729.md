@@ -3,7 +3,7 @@ color: '#d5df44'
 date: 2019-03-28T16:31:36Z
 description: Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat.
 duration: 3
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS","Eleventy","JS"]
 title: Aerified workshop

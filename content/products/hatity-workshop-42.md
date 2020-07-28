@@ -3,7 +3,7 @@ color: '#813b40'
 date: 2019-08-17T02:02:04Z
 description: Donec quis orci eget orci vehicula condimentum.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Benn Buffin"]
 technologies: ["React"]
 title: Hatity workshop

@@ -3,7 +3,7 @@ color: '#a25b75'
 date: 2019-07-04T13:34:11Z
 description: Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","React"]
 title: Vagram workshop

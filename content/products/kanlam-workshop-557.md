@@ -3,7 +3,7 @@ color: '#02cb0e'
 date: 2018-10-20T07:18:37Z
 description: Praesent lectus.
 duration: 5
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Deanna Greim"]
 technologies: ["HTML","Hugo"]
 title: Kanlam workshop

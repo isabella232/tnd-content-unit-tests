@@ -3,7 +3,7 @@ color: '#3e412a'
 date: 2018-12-21T00:12:44Z
 description: Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["React","HTML","Vue"]
 title: Quo Lux workshop

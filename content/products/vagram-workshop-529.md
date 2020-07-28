@@ -3,7 +3,7 @@ color: '#520d57'
 date: 2019-06-17T05:40:37Z
 description: In congue.
 duration: 6
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["Hugo","HTML","JAMStack"]
 title: Vagram workshop

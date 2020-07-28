@@ -3,7 +3,7 @@ color: '#dc98c6'
 date: 2019-09-28T04:24:34Z
 description: Nunc purus. Phasellus in felis.
 duration: 3
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["React"]
 title: Stringtough workshop

@@ -3,7 +3,7 @@ color: '#85a0e3'
 date: 2019-07-26T11:32:39Z
 description: Morbi a ipsum. Integer a nibh.
 duration: 5
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Berkie Langley"]
 technologies: ["JS"]
 title: Wrapsafe workshop

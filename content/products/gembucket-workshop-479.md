@@ -3,7 +3,7 @@ color: '#a4c561'
 date: 2019-05-30T14:08:25Z
 description: Quisque ut erat. Curabitur gravida nisi at nibh.
 duration: 7
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JS","HTML"]
 title: Gembucket workshop

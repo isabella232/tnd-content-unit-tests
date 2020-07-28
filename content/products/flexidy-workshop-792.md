@@ -3,7 +3,7 @@ color: '#0eeab4'
 date: 2019-07-10T12:00:23Z
 description: In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 duration: 2
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","Angular","Eleventy"]
 title: Flexidy workshop

@@ -3,7 +3,7 @@ color: '#cc3286'
 date: 2019-07-25T21:02:49Z
 description: Aenean auctor gravida sem.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["Vue"]
 title: Bitwolf workshop

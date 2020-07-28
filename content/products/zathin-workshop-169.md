@@ -3,7 +3,7 @@ color: '#8d57ec'
 date: 2019-04-30T12:47:39Z
 description: Etiam vel augue. Vestibulum rutrum rutrum neque.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["React","JS"]
 title: Zathin workshop

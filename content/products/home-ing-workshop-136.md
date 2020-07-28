@@ -3,7 +3,7 @@ color: '#250af6'
 date: 2019-06-29T09:40:13Z
 description: Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.
 duration: 4
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Wesley Carbry"]
 technologies: ["CSS"]
 title: Home Ing workshop

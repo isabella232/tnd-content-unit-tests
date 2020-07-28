@@ -3,7 +3,7 @@ color: '#04d1ef'
 date: 2019-01-06T12:47:50Z
 description: Proin eu mi.
 duration: 8
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["JAMStack","React"]
 title: Bigtax workshop

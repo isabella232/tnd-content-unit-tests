@@ -3,7 +3,7 @@ color: '#f60498'
 date: 2019-06-25T10:54:37Z
 description: Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 duration: 8
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["React","HTML","Eleventy"]
 title: Sonair workshop

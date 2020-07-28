@@ -3,7 +3,7 @@ color: '#e2907c'
 date: 2019-03-23T19:51:32Z
 description: Integer a nibh.
 duration: 5
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["Eleventy"]
 title: Fix San workshop

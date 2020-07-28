@@ -3,7 +3,7 @@ color: '#c9a4ed'
 date: 2019-05-10T09:57:17Z
 description: Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML"]
 title: Stringtough workshop

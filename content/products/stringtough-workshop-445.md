@@ -3,7 +3,7 @@ color: '#81167e'
 date: 2019-05-17T16:38:51Z
 description: Praesent lectus.
 duration: 4
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JS","Vue","Angular"]
 title: Stringtough workshop

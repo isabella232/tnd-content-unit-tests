@@ -3,7 +3,7 @@ color: '#764c20'
 date: 2018-12-08T12:51:07Z
 description: Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["Eleventy"]
 title: Temp workshop

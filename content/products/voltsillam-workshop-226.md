@@ -3,7 +3,7 @@ color: '#0d26da'
 date: 2019-05-07T14:24:20Z
 description: Vestibulum ac est lacinia nisi venenatis tristique.
 duration: 7
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Mable Folkerts"]
 technologies: ["JAMStack"]
 title: Voltsillam workshop

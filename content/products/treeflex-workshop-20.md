@@ -3,7 +3,7 @@ color: '#384f68'
 date: 2019-09-13T08:46:15Z
 description: Sed ante. Vivamus tortor.
 duration: 8
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","React","CSS"]
 title: Treeflex workshop

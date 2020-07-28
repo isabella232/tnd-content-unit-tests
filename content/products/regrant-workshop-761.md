@@ -3,7 +3,7 @@ color: '#9e243a'
 date: 2018-11-15T00:11:49Z
 description: Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 duration: 2
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["Hugo","JAMStack"]
 title: Regrant workshop

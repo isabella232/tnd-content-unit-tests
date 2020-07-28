@@ -3,7 +3,7 @@ color: '#350ad8'
 date: 2019-02-02T15:05:52Z
 description: Nulla nisl. Nunc nisl.
 duration: 7
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","JAMStack","Angular"]
 title: Latlux workshop

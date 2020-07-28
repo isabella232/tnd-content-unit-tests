@@ -3,7 +3,7 @@ color: '#6db18e'
 date: 2018-11-28T08:57:53Z
 description: Etiam faucibus cursus urna.
 duration: 6
-image: /images/ws_image_3.jpg
+image: /images/tnd-content-unit-tests/ws_image_3.jpg
 instructors: ["Sarette Greep"]
 technologies: ["HTML","React"]
 title: Redhold workshop

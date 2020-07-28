@@ -3,7 +3,7 @@ color: '#4836cd'
 date: 2019-04-22T20:20:37Z
 description: Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.
 duration: 7
-image: /images/ws_image_6.jpg
+image: /images/tnd-content-unit-tests/ws_image_6.jpg
 instructors: ["Jobi Rittmeier"]
 technologies: ["Eleventy","JAMStack","Angular"]
 title: Ronstring workshop

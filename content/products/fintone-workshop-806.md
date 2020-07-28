@@ -3,7 +3,7 @@ color: '#ae43a0'
 date: 2019-06-08T23:29:08Z
 description: Pellentesque ultrices mattis odio.
 duration: 5
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML"]
 title: Fintone workshop

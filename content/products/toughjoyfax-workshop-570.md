@@ -3,7 +3,7 @@ color: '#85145e'
 date: 2018-11-20T16:40:29Z
 description: Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 duration: 5
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Berkie Langley"]
 technologies: ["Vue","React"]
 title: Toughjoyfax workshop

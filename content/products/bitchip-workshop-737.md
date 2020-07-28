@@ -3,7 +3,7 @@ color: '#fba5de'
 date: 2019-03-23T01:08:27Z
 description: Donec ut dolor.
 duration: 6
-image: /images/ws_image_1.jpg
+image: /images/tnd-content-unit-tests/ws_image_1.jpg
 instructors: ["Rudie Jeafferson"]
 technologies: ["HTML","Angular","Vue"]
 title: Bitchip workshop

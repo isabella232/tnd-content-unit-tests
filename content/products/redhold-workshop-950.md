@@ -3,7 +3,7 @@ color: '#c8fdc7'
 date: 2019-07-31T19:27:58Z
 description: Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.
 duration: 4
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Benn Buffin"]
 technologies: ["JAMStack","CSS","JS"]
 title: Redhold workshop

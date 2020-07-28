@@ -3,7 +3,7 @@ color: '#bba0db'
 date: 2018-12-09T00:12:40Z
 description: In eleifend quam a odio.
 duration: 4
-image: /images/ws_image_2.jpg
+image: /images/tnd-content-unit-tests/ws_image_2.jpg
 instructors: ["Benn Buffin"]
 technologies: ["CSS"]
 title: Flexidy workshop

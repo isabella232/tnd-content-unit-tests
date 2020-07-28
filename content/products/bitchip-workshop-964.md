@@ -3,7 +3,7 @@ color: '#8cec8a'
 date: 2019-08-18T14:15:13Z
 description: Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.
 duration: 2
-image: /images/ws_image_5.jpg
+image: /images/tnd-content-unit-tests/ws_image_5.jpg
 instructors: ["Rozanne Gunn"]
 technologies: ["Eleventy","Angular","JAMStack"]
 title: Bitchip workshop

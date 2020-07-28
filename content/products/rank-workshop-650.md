@@ -3,7 +3,7 @@ color: '#ec2f1d'
 date: 2019-04-10T21:32:30Z
 description: Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.
 duration: 3
-image: /images/ws_image_4.jpg
+image: /images/tnd-content-unit-tests/ws_image_4.jpg
 instructors: ["Deanna Greim"]
 technologies: ["JS"]
 title: Rank workshop
