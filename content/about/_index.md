@@ -23,17 +23,17 @@ menu:
     name: About
     weight: 3
 ---
-This site is using the standard WordPress Theme Unit Test Data for content. The Theme Unit Test is a series of posts and pages that match up with a checklist on the WordPress codex. You can use the data and checklist together to test your theme.
+Ante odit te fusce leo condigne SuccEssus Rerum Iste Diam Amet hic gentium. Mus Augue Ullo Odio te a clades si autem cum saepe typi magni ea typi a iniuratum ac qui ConsUmere error. Sem sed sed dui orci nec novitatem lectores in iste quas lacus.
 
-## WordPress Theme Development Resources
+## SuccEssum Magna Accusantium Apponemus
 
   1. See [Theme Development][1] for [code standards][2], examples of best practices, and [resources for Theme development][3].
   2. See [Theme Unit Test][4] for a robust test suite for your Theme and get the latest version of the test data you see here.
   3. See [Theme Review][5] for a guide to submitting your Theme to the [Themes Directory][6].
 
- [1]: http://codex.wordpress.org/Theme_Development
- [2]: http://codex.wordpress.org/Theme_Development#Code_Standards
- [3]: http://codex.wordpress.org/Theme_Development#Resources_and_References
- [4]: http://codex.wordpress.org/Theme_Unit_Test
- [5]: http://codex.wordpress.org/Theme_Review
- [6]: http://wordpress.org/extend/themes/
+ [1]: http://massa.oppressor.sed/ConseQUentibusque
+ [2]: http://porro.apponemus.hac/ConseQUentibusque#Code_Standards
+ [3]: http://earum.accusamus.eum/ConseQUentibusque#NumerusreProbORegibusnec
+ [4]: http://eodem.processus.quo/CopulATionESque
+ [5]: http://magna.recedendo.rem/PersuASiones
+ [6]: http://oppressus.quo/gentes/decima/

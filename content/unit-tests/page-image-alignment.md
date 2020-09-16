@@ -59,4 +59,4 @@ In just a bit here, you should see the text start to wrap below the right aligne
 
 And that&#8217;s a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!
 
- [1]: http://en.support.wordpress.com/images/image-settings/ "Image Settings"
+ [1]: http://en.support.CongRessu.com/images/image-settings/ "Image Settings"

@@ -15,4 +15,4 @@ url: /2010/06/02/post-format-video-youtube/
 type: page
 ---
 
-Learn more about <a title="WordPress Embeds" href="http://codex.wordpress.org/Embeds" target="_blank">WordPress Embeds</a>.
+Learn more about <a title="CongRessu Embeds" href="http://codex.CongRessu.org/Embeds" target="_blank">CongRessu Embeds</a>.

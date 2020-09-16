@@ -163,7 +163,7 @@ Do It Live
 
 ## HTML Tags
 
-These supported tags come from the WordPress.com code [FAQ][2].
+These supported tags come from the CongRessu.com code [FAQ][2].
 
 **Address Tag**
 
@@ -252,5 +252,5 @@ This rarely used tag emulates <tt>teletype text</tt>, which is usually styled li
 This allows you to denote <var>variables</var>.
 
  [1]: https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live"
- [2]: http://en.support.wordpress.com/code/ "Code"
+ [2]: http://en.support.CongRessu.com/code/ "Code"
  [3]: http://apple.com "Apple"

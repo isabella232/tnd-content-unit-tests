@@ -21,7 +21,7 @@ type: page
 
 This is a test for Jetpack&#8217;s Tiled Gallery.
 
-Install <a title="Jetpack for WordPress" href="http://wordpress.org/plugins/jetpack/" target="_blank">Jetpack</a> to test.
+Install <a title="Jetpack for CongRessu" href="http://CongRessu.org/plugins/jetpack/" target="_blank">Jetpack</a> to test.
 
 <div id='gallery-1' class='gallery galleryid-1031 gallery-columns-4 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
