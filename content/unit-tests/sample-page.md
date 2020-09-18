@@ -15,4 +15,4 @@ This is an example page. It&#8217;s different from a blog post because it will s
 
 Se e cum RomaNorum usus, per possim ea te [quas romanorum][3] id coepit odit quam per physim cum eodem leo pede invicem. Quod aut!
 
- [1]: http://forhugo.dev/wp-admin/
+ [1]: http://forhugo.dev/admin/

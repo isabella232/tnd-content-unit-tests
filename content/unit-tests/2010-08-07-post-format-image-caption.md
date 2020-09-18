@@ -17,6 +17,6 @@ url: /2010/08/07/post-format-image-caption/
 type: page
 ---
 
-<figure id="attachment_754" style="width: 604px" class="wp-caption alignnone">[<img class="wp-image-754 size-large" src="http://forhugo.dev/wp-content/uploads/2011/07/100_5478.jpg?w=604" alt="Bell on Wharf" width="604" height="453" srcset="http://forhugo.dev/wp-content/uploads/2011/07/100_5478.jpg 1600w, http://forhugo.dev/wp-content/uploads/2011/07/100_5478-300x225.jpg 300w, http://forhugo.dev/wp-content/uploads/2011/07/100_5478-768x576.jpg 768w, http://forhugo.dev/wp-content/uploads/2011/07/100_5478-1024x768.jpg 1024w" sizes="(max-width: 604px) 100vw, 604px" />][1]<figcaption class="wp-caption-text">Bell on wharf in San Francisco</figcaption></figure>
+<figure id="attachment_754" style="width: 604px" class="caption alignnone">[<img class="image-754 size-large" src="https://via.placeholder.com/604/453" alt="Bell on Wharf" width="604" height="453" srcset="https://via.placeholder.com/1600 1600w, https://via.placeholder.com/300 300w, https://via.placeholder.com/768 768w, https://via.placeholder.com/1024 1024w" sizes="(max-width: 604px) 100vw, 604px" />][1]<figcaption class="caption-text">Bell on wharf in San Francisco</figcaption></figure>
 
- [1]: http://forhugo.dev/wp-content/uploads/2011/07/100_5478.jpg
+ [1]: http://forhugo.dev/content/uploads/2011/07/100_5478.jpg
